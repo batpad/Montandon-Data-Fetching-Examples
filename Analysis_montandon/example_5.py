@@ -16,24 +16,47 @@ def get_hazard_collections(session):
     """Retrieves a list of all collection IDs that have '-events' in their name."""
     print("Fetching list of all collections...")
     url = f"{BASE_URL}/collections"
+    params = {"limit": 100}  # Fetch up to 100 collections per page
+    
+    all_collections = []
+    hazard_collections = []
+    page = 1
+    
     try:
-        response = session.get(url, timeout=30)
-        response.raise_for_status()
-        data = response.json()
+        while url:
+            print(f"  Fetching collections page {page}...")
+            response = session.get(url, params=params, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+            
+            collections = data.get("collections", [])
+            all_collections.extend(collections)
+            print(f"    Retrieved {len(collections)} collections (total so far: {len(all_collections)})")
+            
+            # Check for next page
+            links = data.get("links", [])
+            url = None
+            for link in links:
+                if link.get("rel") == "next":
+                    url = link.get("href")
+                    params = {}  # Clear params as next URL already has them
+                    break
+            
+            page += 1
         
-        # Filter for collections that have hazard codes in their summaries
-        hazard_collections = []
-        for collection in data.get("collections", []):
+        print(f"\nTotal collections fetched: {len(all_collections)}")
+        print("Filtering for collections with '-events' in their name...\n")
+        
+        # Filter for collections that have '-events' in their name
+        for collection in all_collections:
             coll_id = collection.get("id", "unknown")
-            summaries = collection.get("summaries", {})
-            hazard_codes = summaries.get("monty:hazard_codes")
             
             print(f"  Checking collection '{coll_id}'")
             if "-events" in coll_id:
                 hazard_collections.append(coll_id)
-                print(f"    ✓ Has '-events' in name - Added")
+                print(f"Has '-events' in name - Added")
             else:
-                print(f"    ✗ No '-events' in name")
+                print(f"No '-events' in name")
         
         print(f"\nFound {len(hazard_collections)} collections with hazard data: {hazard_collections}\n")
         return hazard_collections
