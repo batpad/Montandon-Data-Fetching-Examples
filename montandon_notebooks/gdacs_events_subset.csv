@@ -1,4 +1,8 @@
 id,collection_id,datetime,monty:country_codes,monty:hazard_codes,monty:corr_id
+gdacs-event-1511265,gdacs-events,2025-11-21T07:12:38Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121--GH0101-1-GCDB
+gdacs-event-1511252,gdacs-events,2025-11-21T04:38:26Z,['BGD'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121-BGD-GH0101-1-GCDB
+gdacs-event-1511241,gdacs-events,2025-11-21T02:39:29Z,['CHL'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121-CHL-GH0101-1-GCDB
+gdacs-event-1511229,gdacs-events,2025-11-21T00:42:38Z,['ARG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121-ARG-GH0101-1-GCDB
 gdacs-event-1510840,gdacs-events,2025-11-18T08:21:21Z,['JPN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-JPN-GH0101-1-GCDB
 gdacs-event-1510833,gdacs-events,2025-11-18T07:11:32Z,['ARG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-ARG-GH0101-1-GCDB
 gdacs-event-1510834,gdacs-events,2025-11-18T07:08:29Z,['USA'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-USA-GH0101-1-GCDB
@@ -45,7 +49,3 @@ gdacs-event-1508161,gdacs-events,2025-10-31T20:53:24Z,[''],"['nat-gem-ear-gro', 
 gdacs-event-1508171,gdacs-events,2025-10-31T20:44:31Z,['PHL'],"['nat-gem-ear-gro', 'EQ']",20251031-PHL-NAT-GEO-EAR-GRO-1-GCDB
 gdacs-event-1508145,gdacs-events,2025-10-31T19:30:19Z,[''],"['nat-gem-ear-gro', 'EQ']",20251031--NAT-GEO-EAR-GRO-1-GCDB
 gdacs-event-1508106,gdacs-events,2025-10-31T17:02:15Z,['IDN'],"['nat-gem-ear-gro', 'EQ']",20251031-IDN-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508101,gdacs-events,2025-10-31T16:35:16Z,['RUS'],"['nat-gem-ear-gro', 'EQ']",20251031-RUS-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508069,gdacs-events,2025-10-31T13:04:29Z,['CRI'],"['nat-gem-ear-gro', 'EQ']",20251031-CRI-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508092,gdacs-events,2025-10-31T10:55:21Z,['IDN'],"['nat-gem-ear-gro', 'EQ']",20251031-IDN-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508039,gdacs-events,2025-10-31T08:57:40Z,['RUS'],"['nat-gem-ear-gro', 'EQ']",20251031-RUS-NAT-GEO-EAR-GRO-1-GCDB
