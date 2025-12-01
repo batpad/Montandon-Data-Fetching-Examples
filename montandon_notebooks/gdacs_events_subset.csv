@@ -1,51 +1,51 @@
 id,collection_id,datetime,monty:country_codes,monty:hazard_codes,monty:corr_id
-gdacs-event-1511265,gdacs-events,2025-11-21T07:12:38Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121--GH0101-1-GCDB
-gdacs-event-1511252,gdacs-events,2025-11-21T04:38:26Z,['BGD'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121-BGD-GH0101-1-GCDB
-gdacs-event-1511241,gdacs-events,2025-11-21T02:39:29Z,['CHL'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121-CHL-GH0101-1-GCDB
-gdacs-event-1511229,gdacs-events,2025-11-21T00:42:38Z,['ARG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251121-ARG-GH0101-1-GCDB
-gdacs-event-1510840,gdacs-events,2025-11-18T08:21:21Z,['JPN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-JPN-GH0101-1-GCDB
-gdacs-event-1510833,gdacs-events,2025-11-18T07:11:32Z,['ARG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-ARG-GH0101-1-GCDB
-gdacs-event-1510834,gdacs-events,2025-11-18T07:08:29Z,['USA'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-USA-GH0101-1-GCDB
-gdacs-event-1001235,gdacs-events,2025-11-18T06:00:00Z,['AUS'],"['MH0309', 'TC', 'nat-met-sto-tro']",20251118-AUS-MH0309-1-GCDB
-gdacs-event-1510796,gdacs-events,2025-11-18T02:05:52Z,['JPN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-JPN-GH0101-1-GCDB
-gdacs-event-1510826,gdacs-events,2025-11-18T00:55:05Z,"['', 'NZL']","['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118--GH0101-1-GCDB
-gdacs-event-1510780,gdacs-events,2025-11-18T00:19:54Z,['SLB'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251118-SLB-GH0101-1-GCDB
-gdacs-event-1510667,gdacs-events,2025-11-17T05:06:08Z,['ECU'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251117-ECU-GH0101-1-GCDB
-gdacs-event-1510633,gdacs-events,2025-11-17T00:46:17Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251117--GH0101-1-GCDB
-gdacs-event-1103608,gdacs-events,2025-11-16T01:00:00Z,['IRN'],"['MH0600', 'FL', 'nat-hyd-flo-flo']",20251116-IRN-MH0600-1-GCDB
-gdacs-event-1508859,gdacs-events,2025-11-05T03:03:45Z,['GUM'],"['nat-gem-ear-gro', 'EQ']",20251105-GUM-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508856,gdacs-events,2025-11-05T02:02:40Z,['AUS'],"['nat-gem-ear-gro', 'EQ']",20251105-AUS-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508850,gdacs-events,2025-11-05T01:48:31Z,[''],"['nat-gem-ear-gro', 'EQ']",20251105--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508842,gdacs-events,2025-11-05T00:33:04Z,[''],"['nat-gem-ear-gro', 'EQ']",20251105--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1001234,gdacs-events,2025-11-04T06:00:00Z,['PHL'],"['nat-met-sto-tro', 'TC']",20251104-PHL-NAT-MET-STO-TRO-1-GCDB
-gdacs-event-1508536,gdacs-events,2025-11-03T07:59:13Z,[''],"['nat-gem-ear-gro', 'EQ']",20251103--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508528,gdacs-events,2025-11-03T07:19:54Z,['RUS'],"['nat-gem-ear-gro', 'EQ']",20251103-RUS-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508526,gdacs-events,2025-11-03T07:10:24Z,['RUS'],"['nat-gem-ear-gro', 'EQ']",20251103-RUS-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508507,gdacs-events,2025-11-03T04:21:26Z,['PHL'],"['nat-gem-ear-gro', 'EQ']",20251103-PHL-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508505,gdacs-events,2025-11-03T03:55:04Z,['RUS'],"['nat-gem-ear-gro', 'EQ']",20251103-RUS-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508490,gdacs-events,2025-11-03T01:49:15Z,['RUS'],"['nat-gem-ear-gro', 'EQ']",20251103-RUS-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508489,gdacs-events,2025-11-03T01:33:02Z,['MMR'],"['nat-gem-ear-gro', 'EQ']",20251103-MMR-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1103595,gdacs-events,2025-11-03T01:00:00Z,['MYS'],"['nat-hyd-flo-flo', 'FL']",20251103-MYS-NAT-HYD-FLO-FLO-1-GCDB
-gdacs-event-1508364,gdacs-events,2025-11-02T04:30:45Z,['IDN'],"['nat-gem-ear-gro', 'EQ']",20251102-IDN-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508356,gdacs-events,2025-11-02T03:09:20Z,['IDN'],"['nat-gem-ear-gro', 'EQ']",20251102-IDN-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508338,gdacs-events,2025-11-02T00:16:31Z,[''],"['nat-gem-ear-gro', 'EQ']",20251102--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508334,gdacs-events,2025-11-01T23:27:43Z,[''],"['nat-gem-ear-gro', 'EQ']",20251101--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508313,gdacs-events,2025-11-01T21:00:09Z,['IDN'],"['nat-gem-ear-gro', 'EQ']",20251101-IDN-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508306,gdacs-events,2025-11-01T19:03:56Z,['AFG'],"['nat-gem-ear-gro', 'EQ']",20251101-AFG-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508298,gdacs-events,2025-11-01T17:42:41Z,['MEX'],"['nat-gem-ear-gro', 'EQ']",20251101-MEX-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508293,gdacs-events,2025-11-01T16:07:12Z,['RUS'],"['nat-gem-ear-gro', 'EQ']",20251101-RUS-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508274,gdacs-events,2025-11-01T14:44:09Z,['JPN'],"['nat-gem-ear-gro', 'EQ']",20251101-JPN-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508256,gdacs-events,2025-11-01T11:25:02Z,['IRQ'],"['nat-gem-ear-gro', 'EQ']",20251101-IRQ-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508247,gdacs-events,2025-11-01T09:50:00Z,['PNG'],"['nat-gem-ear-gro', 'EQ']",20251101-PNG-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508237,gdacs-events,2025-11-01T07:30:40Z,['WLF'],"['nat-gem-ear-gro', 'EQ']",20251101-WLF-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508233,gdacs-events,2025-11-01T06:57:25Z,['PHL'],"['nat-gem-ear-gro', 'EQ']",20251101-PHL-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1001233,gdacs-events,2025-11-01T06:00:00Z,"['LAO', 'KHM', 'PHL']","['nat-met-sto-tro', 'TC']",20251101-LAO-NAT-MET-STO-TRO-1-GCDB
-gdacs-event-1508214,gdacs-events,2025-11-01T04:32:39Z,['IDN'],"['nat-gem-ear-gro', 'EQ']",20251101-IDN-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508197,gdacs-events,2025-11-01T01:51:23Z,[''],"['nat-gem-ear-gro', 'EQ']",20251101--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508194,gdacs-events,2025-11-01T01:16:57Z,[''],"['nat-gem-ear-gro', 'EQ']",20251101--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508168,gdacs-events,2025-10-31T21:27:48Z,['PHL'],"['nat-gem-ear-gro', 'EQ']",20251031-PHL-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508174,gdacs-events,2025-10-31T21:21:04Z,['PHL'],"['nat-gem-ear-gro', 'EQ']",20251031-PHL-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508161,gdacs-events,2025-10-31T20:53:24Z,[''],"['nat-gem-ear-gro', 'EQ']",20251031--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508171,gdacs-events,2025-10-31T20:44:31Z,['PHL'],"['nat-gem-ear-gro', 'EQ']",20251031-PHL-NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508145,gdacs-events,2025-10-31T19:30:19Z,[''],"['nat-gem-ear-gro', 'EQ']",20251031--NAT-GEO-EAR-GRO-1-GCDB
-gdacs-event-1508106,gdacs-events,2025-10-31T17:02:15Z,['IDN'],"['nat-gem-ear-gro', 'EQ']",20251031-IDN-NAT-GEO-EAR-GRO-1-GCDB
+gdacs-event-1512717,gdacs-events,2025-12-01T01:41:44Z,['PHL'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251201-PHL-GH0101-1-GCDB
+gdacs-event-1512711,gdacs-events,2025-12-01T00:48:00Z,['JPN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251201-JPN-GH0101-1-GCDB
+gdacs-event-1512706,gdacs-events,2025-11-30T23:16:37Z,['IDN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251130-IDN-GH0101-1-GCDB
+gdacs-event-1512681,gdacs-events,2025-11-30T17:25:49Z,['JPN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251130-JPN-GH0101-1-GCDB
+gdacs-event-1512673,gdacs-events,2025-11-30T16:23:05Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251130--GH0101-1-GCDB
+gdacs-event-1512640,gdacs-events,2025-11-30T12:18:13Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251130--GH0101-1-GCDB
+gdacs-event-1512629,gdacs-events,2025-11-30T10:05:37Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251130--GH0101-1-GCDB
+gdacs-event-1512621,gdacs-events,2025-11-30T08:31:49Z,['IDN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251130-IDN-GH0101-1-GCDB
+gdacs-event-1512577,gdacs-events,2025-11-30T02:51:46Z,['ARG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251130-ARG-GH0101-1-GCDB
+gdacs-event-1512551,gdacs-events,2025-11-29T23:42:46Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129--GH0101-1-GCDB
+gdacs-event-1512539,gdacs-events,2025-11-29T22:47:50Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129--GH0101-1-GCDB
+gdacs-event-1512531,gdacs-events,2025-11-29T20:01:55Z,['PHL'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-PHL-GH0101-1-GCDB
+gdacs-event-1512514,gdacs-events,2025-11-29T15:23:05Z,['IDN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-IDN-GH0101-1-GCDB
+gdacs-event-1512503,gdacs-events,2025-11-29T13:41:32Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129--GH0101-1-GCDB
+gdacs-event-1512510,gdacs-events,2025-11-29T13:29:48Z,['FSM'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-FSM-GH0101-1-GCDB
+gdacs-event-1512495,gdacs-events,2025-11-29T12:15:14Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129--GH0101-1-GCDB
+gdacs-event-1512494,gdacs-events,2025-11-29T11:50:03Z,['VUT'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-VUT-GH0101-1-GCDB
+gdacs-event-1512473,gdacs-events,2025-11-29T08:03:53Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129--GH0101-1-GCDB
+gdacs-event-1512471,gdacs-events,2025-11-29T06:57:14Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129--GH0101-1-GCDB
+gdacs-event-1512467,gdacs-events,2025-11-29T06:52:40Z,['SLV'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-SLV-GH0101-1-GCDB
+gdacs-event-1512466,gdacs-events,2025-11-29T06:33:01Z,['IDN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-IDN-GH0101-1-GCDB
+gdacs-event-1512462,gdacs-events,2025-11-29T06:05:00Z,['PNG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-PNG-GH0101-1-GCDB
+gdacs-event-1512455,gdacs-events,2025-11-29T04:20:40Z,['SHN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-SHN-GH0101-1-GCDB
+gdacs-event-1512453,gdacs-events,2025-11-29T03:34:09Z,['RUS'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-RUS-GH0101-1-GCDB
+gdacs-event-1512449,gdacs-events,2025-11-29T02:31:57Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129--GH0101-1-GCDB
+gdacs-event-1512429,gdacs-events,2025-11-29T00:55:12Z,['ARG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251129-ARG-GH0101-1-GCDB
+gdacs-event-1512423,gdacs-events,2025-11-28T22:53:31Z,['CHN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-CHN-GH0101-1-GCDB
+gdacs-event-1512419,gdacs-events,2025-11-28T22:46:29Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128--GH0101-1-GCDB
+gdacs-event-1512418,gdacs-events,2025-11-28T22:40:46Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128--GH0101-1-GCDB
+gdacs-event-1512410,gdacs-events,2025-11-28T21:23:45Z,['RUS'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-RUS-GH0101-1-GCDB
+gdacs-event-1512402,gdacs-events,2025-11-28T20:06:06Z,['GTM'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-GTM-GH0101-1-GCDB
+gdacs-event-1001239,gdacs-events,2025-11-28T18:00:00Z,[''],"['MH0309', 'TC', 'nat-met-sto-tro']",20251128--MH0309-1-GCDB
+gdacs-event-1512389,gdacs-events,2025-11-28T17:59:54Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128--GH0101-1-GCDB
+gdacs-event-1512373,gdacs-events,2025-11-28T15:28:50Z,['PHL'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-PHL-GH0101-1-GCDB
+gdacs-event-1512354,gdacs-events,2025-11-28T13:29:33Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128--GH0101-1-GCDB
+gdacs-event-1512341,gdacs-events,2025-11-28T11:44:22Z,['BOL'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-BOL-GH0101-1-GCDB
+gdacs-event-1512332,gdacs-events,2025-11-28T10:39:10Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128--GH0101-1-GCDB
+gdacs-event-1512324,gdacs-events,2025-11-28T08:32:53Z,['IDN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-IDN-GH0101-1-GCDB
+gdacs-event-1512317,gdacs-events,2025-11-28T07:13:32Z,['ARG'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-ARG-GH0101-1-GCDB
+gdacs-event-1512312,gdacs-events,2025-11-28T05:18:28Z,[''],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128--GH0101-1-GCDB
+gdacs-event-1512300,gdacs-events,2025-11-28T03:30:08Z,['TON'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251128-TON-GH0101-1-GCDB
+gdacs-event-1103638,gdacs-events,2025-11-28T01:00:00Z,['TUR'],"['MH0600', 'FL', 'nat-hyd-flo-flo']",20251128-TUR-MH0600-1-GCDB
+gdacs-event-1512271,gdacs-events,2025-11-27T21:45:01Z,['IRN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251127-IRN-GH0101-1-GCDB
+gdacs-event-1512236,gdacs-events,2025-11-27T17:12:28Z,['USA'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251127-USA-GH0101-1-GCDB
+gdacs-event-1512234,gdacs-events,2025-11-27T17:11:28Z,['USA'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251127-USA-GH0101-1-GCDB
+gdacs-event-1512229,gdacs-events,2025-11-27T16:01:39Z,['IDN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251127-IDN-GH0101-1-GCDB
+gdacs-event-1000128,gdacs-events,2025-11-27T16:01:00Z,['RUS'],"['GH0205', 'VO', 'nat-geo-vol-vol']",20251127-RUS-GH0205-1-GCDB
+gdacs-event-1103634,gdacs-events,2025-11-27T13:00:00Z,['MYS'],"['MH0600', 'FL', 'nat-hyd-flo-flo']",20251127-MYS-MH0600-1-GCDB
+gdacs-event-1512206,gdacs-events,2025-11-27T12:31:12Z,['IDN'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251127-IDN-GH0101-1-GCDB
+gdacs-event-1512205,gdacs-events,2025-11-27T12:26:00Z,['MNP'],"['GH0101', 'EQ', 'nat-geo-ear-gro']",20251127-MNP-GH0101-1-GCDB
