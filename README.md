@@ -2,11 +2,34 @@
 
 Example notebooks demonstrating usage of the Montandon API / STAC data catalog.
 
+## Authentication Required
+
+The Montandon STAC API staging environment now requires authentication using a Bearer Token from the IFRC OpenID Connect system.
+
+**API Endpoint:** https://montandon-eoapi-stage.ifrc.org/
+
+**To get your API token:**
+1. Visit: https://goadmin-stage.ifrc.org/
+2. Log in with your IFRC credentials
+3. Navigate to your account settings to generate an API token
+4. When running notebooks, you'll be prompted to enter your token securely
+
+**Setting token as environment variable (optional):**
+```bash
+# PowerShell
+$env:MONTANDON_API_TOKEN = "your_token_here"
+
+# Bash/Linux
+export MONTANDON_API_TOKEN="your_token_here"
+```
+
 ## Run in Binder
 
 Click to open the notebooks in an interactive environment:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arunissun/Montandon-Data-Fetching-Examples/HEAD)
+
+**Note:** When using Binder, you'll need to provide your own API token when prompted in the notebooks.
 
 ## Run Locally
 
@@ -57,3 +80,4 @@ jupyter lab
 - `05_Earthquakes_visualization.ipynb` - Earthquake event visualization
 - `06_Hazard_Country_Codes_Analysis.ipynb` - Hazard and country code analysis
 - `07_Snow_Cold_Wave_Impact_Analysis.ipynb` - Winter hazard impact analysis
+- `08_Queryables_Deep_Dive.ipynb` - Deep dive into STAC API queryables and CQL2 filtering
