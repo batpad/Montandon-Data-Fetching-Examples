@@ -6,7 +6,7 @@ Example notebooks demonstrating usage of the Montandon API / STAC data catalog.
 
 Click to open the notebooks in an interactive environment:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/batpad/Montandon-Data-Fetching-Examples/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arunissun/Montandon-Data-Fetching-Examples/HEAD)
 
 ## Run Locally
 
