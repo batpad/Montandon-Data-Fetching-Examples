@@ -55,5 +55,5 @@ jupyter lab
 - `03_Time_Series_Analysis.ipynb` - Time series analysis of disaster data
 - `04_Recent_Cyclone_Tracking.ipynb` - Tracking Hurricane Beryl
 - `05_Earthquakes_visualization.ipynb` - Earthquake event visualization
-- `06_Snow_Cold_Wave_Impact_Analysis.ipynb` - Winter hazard impact analysis
-- `07_cascading_impacts_analysis.ipynb` - 2023 Turkey-Syria earthquake cascading impacts
+- `06_Hazard_Country_Codes_Analysis.ipynb` - Hazard and country code analysis
+- `07_Snow_Cold_Wave_Impact_Analysis.ipynb` - Winter hazard impact analysis
