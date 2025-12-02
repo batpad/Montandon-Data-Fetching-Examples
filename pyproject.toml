@@ -1,0 +1,23 @@
+[project]
+name = "montandon-data-fetching-examples"
+version = "0.1.0"
+description = "Example notebooks demonstrating usage of the Montandon API / STAC data catalog"
+requires-python = ">=3.12"
+dependencies = [
+    "pystac-client>=0.7.0",
+    "pystac>=1.9.0",
+    "pandas>=2.0.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "plotly>=5.14.0",
+    "folium>=0.14.0",
+    "geopandas>=0.13.0",
+    "statsmodels>=0.14.0",
+    "pymannkendall>=1.4.0",
+    "jupyterlab>=4.0.0",
+    "ipywidgets>=8.0.0",
+    "selenium>=4.0.0",
+    "pillow>=10.0.0",
+    "requests>=2.31.0",
+    "python-dateutil>=2.8.0",
+]
