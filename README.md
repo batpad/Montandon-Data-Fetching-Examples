@@ -45,7 +45,7 @@ Click to open the notebooks in an interactive environment:
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone the repository
-git clone https://github.com/batpad/Montandon-Data-Fetching-Examples.git
+git clone https://github.com/arunissun/Montandon-Data-Fetching-Examples.git
 cd Montandon-Data-Fetching-Examples
 
 # Install dependencies and run JupyterLab
@@ -57,12 +57,17 @@ uv run jupyter lab
 
 ```bash
 # Clone the repository
-git clone https://github.com/batpad/Montandon-Data-Fetching-Examples.git
+git clone https://github.com/arunissun/Montandon-Data-Fetching-Examples.git
 cd Montandon-Data-Fetching-Examples
 
 # Create a virtual environment
-python3.12 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv venv
+
+# Activate virtual environment
+# On Windows:
+venv\Scripts\activate
+# On Linux/Mac:
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -71,13 +76,43 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
+### Set API Token as Environment Variable
+
+**PowerShell (Windows):**
+```powershell
+$env:MONTANDON_API_TOKEN = "your_token_here"
+```
+
+**Bash/Linux/Mac:**
+```bash
+export MONTANDON_API_TOKEN="your_token_here"
+```
+
 ## Notebooks
 
-- `01_Getting_Started_Montandon_STAC_API.ipynb` - Introduction to the Montandon STAC API
-- `02_Montandon_data_analysis.ipynb` - Data analysis and visualization
-- `03_Time_Series_Analysis.ipynb` - Time series analysis of disaster data
-- `04_Recent_Cyclone_Tracking.ipynb` - Tracking Hurricane Beryl
-- `05_Earthquakes_visualization.ipynb` - Earthquake event visualization
-- `06_Hazard_Country_Codes_Analysis.ipynb` - Hazard and country code analysis
-- `07_Snow_Cold_Wave_Impact_Analysis.ipynb` - Winter hazard impact analysis
-- `08_Queryables_Deep_Dive.ipynb` - Deep dive into STAC API queryables and CQL2 filtering
+All notebooks are located in the `montandon_notebooks/` folder:
+
+| # | Notebook | Description | Key Packages |
+|---|----------|-------------|---------------|
+| 01 | `01_Getting_Started_Montandon_STAC_API.ipynb` | Introduction to the Montandon STAC API and basic data retrieval | pystac-client, pandas, matplotlib, seaborn |
+| 02 | `02_Montandon_data_analysis.ipynb` | Data analysis and interactive map visualization | pystac-client, pandas, folium, matplotlib |
+| 03 | `03_Time_Series_Analysis.ipynb` | Time series analysis with parallel processing | pystac-client, statsmodels, pymannkendall, pandas |
+| 04 | `04_Recent_Cyclone_Tracking.ipynb` | Tracking recent cyclone events | pystac-client, pystac, folium, pandas |
+| 05 | `05_Earthquakes_visualization.ipynb` | Interactive earthquake visualization | pystac-client, folium, ipywidgets, pandas |
+| 06 | `06_Snow_Cold_Wave_Impact_Analysis.ipynb` | Winter hazard impact analysis | pystac-client, plotly, pandas, seaborn |
+| 07 | `07_cascading_impacts_analysis.ipynb` | Cascading disaster impact analysis | pystac-client, geopandas, folium, pandas |
+| 08 | `08_Queryables_Deep_Dive.ipynb` | Deep dive into STAC API queryables and CQL2 filtering | pystac-client, requests, plotly, pandas |
+
+
+## Data Sources
+
+The Montandon STAC API aggregates disaster and hazard data from multiple sources:
+- **GDACS** - Global Disaster Alert and Coordination System
+- **EM-DAT** - Emergency Events Database
+- **GLIDE** - Global Library of Insurance Disaster Events
+- **DesInventar** - Disaster Inventory System
+- **GFD** - Geospatial Facility Database
+- **IBTRACS** - International Best Track Archive for Climate Stewardship
+- **IDMC** - Internal Displacement Monitoring Centre
+- **IFRCEVENT** - IFRC Event Database
+- **UNDRR-ISC** - UN Disaster Risk Reduction Registry
