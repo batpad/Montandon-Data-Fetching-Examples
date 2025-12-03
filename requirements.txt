@@ -14,23 +14,17 @@ folium>=0.14.0
 geopandas>=0.13.0
 shapely>=2.0.0
 
-# Machine Learning
-scikit-learn>=1.3.0
-
-# Statistical analysis
+# Statistical analysis (Notebook 03: Time Series)
 statsmodels>=0.14.0
 pymannkendall>=1.4.0
 
-# Jupyter
-jupyterlab>=4.0.0
-ipywidgets>=8.0.0
-
-# Optional dependencies (Notebook 04: Cyclone GIF generation)
-selenium>=4.0.0
-pillow>=10.0.0
-
-# HTTP requests
-requests>=2.31.0
-
 # Date handling
 python-dateutil>=2.8.0
+
+# Jupyter and interactive notebooks
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+ipykernel>=6.0.0
+
+# HTTP requests (Notebook 08: Queryables)
+requests>=2.31.0
