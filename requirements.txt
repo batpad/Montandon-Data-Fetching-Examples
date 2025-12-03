@@ -28,3 +28,7 @@ ipykernel>=6.0.0
 
 # HTTP requests (Notebook 08: Queryables)
 requests>=2.31.0
+
+# Browser automation for GIF capture (Notebook 04: Cyclone Tracking)
+selenium>=4.0.0
+pillow>=10.0.0
