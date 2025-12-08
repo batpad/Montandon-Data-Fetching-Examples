@@ -41,7 +41,7 @@ You can run any notebook directly in Google Colab:
 
    - Navigate to the notebook in the `montandon_notebooks/` folder on GitHub
    - Click the "Open in Colab" badge, or
-   - Use this URL pattern: `https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/<notebook_name>.ipynb`
+   - Use this URL pattern: `https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/<notebook_name>.ipynb`
 
 2. **Install dependencies first:** Add and run this cell at the top of the notebook:
 
@@ -62,16 +62,16 @@ You can run any notebook directly in Google Colab:
 
 **Quick Links to Notebooks:**
 
-| Notebook                       | Open in Colab                                                                                                                                                                                                                               |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01 - Getting Started           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/01_Getting_Started_Montandon_STAC_API.ipynb) |
-| 02 - Data Analysis             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/02_Montandon_data_analysis.ipynb)            |
-| 03 - Time Series Analysis      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/03_Time_Series_Analysis.ipynb)               |
-| 04 - Cyclone Tracking          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/04_Recent_Cyclone_Tracking.ipynb)            |
-| 05 - Earthquakes Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/05_Earthquakes_visualization.ipynb)          |
-| 06 - Snow/Cold Wave Analysis   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/06_Snow_Cold_Wave_Impact_Analysis.ipynb)     |
-| 07 - Cascading Impacts         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/07_cascading_impacts_analysis.ipynb)         |
-| 08 - Queryables Deep Dive      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/main/montandon_notebooks/08_Queryables_Deep_Dive.ipynb)               |
+| Notebook                       | Open in Colab                                                                                                                                                                                                                                 |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01 - Getting Started           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/01_Getting_Started_Montandon_STAC_API.ipynb) |
+| 02 - Data Analysis             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/02_Montandon_data_analysis.ipynb)            |
+| 03 - Time Series Analysis      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/03_Time_Series_Analysis.ipynb)               |
+| 04 - Cyclone Tracking          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/04_Recent_Cyclone_Tracking.ipynb)            |
+| 05 - Earthquakes Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/05_Earthquakes_visualization.ipynb)          |
+| 06 - Snow/Cold Wave Analysis   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/06_Snow_Cold_Wave_Impact_Analysis.ipynb)     |
+| 07 - Cascading Impacts         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/07_cascading_impacts_analysis.ipynb)         |
+| 08 - Queryables Deep Dive      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/08_Queryables_Deep_Dive.ipynb)               |
 
 ## Run Locally
 
