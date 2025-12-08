@@ -85,9 +85,13 @@ Thumbs.db
 *.tmp
 *.log
 
-# notebooks 
+# notebooks and files
 montandon_notebooks/Hazard_Country_Codes_Analysis.ipynb 
 montandon_notebooks/india_heatwave_dashboard.ipynb 
 montandon_notebooks/montandon_case_studies.ipynb 
 *.py
 montandon_notebooks/montandon_errors.md 
+montandon_example_2.ipynb 
+Event_by_country.ipynb
+visualize_floods.ipynb
+stac_api_response.json
