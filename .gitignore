@@ -95,3 +95,11 @@ montandon_example_2.ipynb
 Event_by_country.ipynb
 visualize_floods.ipynb
 stac_api_response.json
+
+
+
+# BUT track these specific CSV files
+!cyclones_south_asia.csv
+!floods_south_asia.csv
+!emdat-impacts-2020-deaths.csv
+!cold_wave_snow_storm_impacts_europe_central_asia.csv
