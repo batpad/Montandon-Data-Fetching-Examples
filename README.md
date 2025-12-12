@@ -72,6 +72,7 @@ You can run any notebook directly in Google Colab:
 | 06 - Snow/Cold Wave Analysis   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/06_Snow_Cold_Wave_Impact_Analysis.ipynb)     |
 | 07 - Cascading Impacts         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/07_cascading_impacts_analysis.ipynb)         |
 | 08 - Queryables Deep Dive      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/08_Queryables_Deep_Dive.ipynb)               |
+| 09 - EM-DAT Impact Analysis    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunissun/Montandon-Data-Fetching-Examples/blob/master/montandon_notebooks/09_EMDAT_Impact_Analysis.ipynb)               |
 
 ## Run Locally
 
@@ -146,6 +147,7 @@ All notebooks are located in the `montandon_notebooks/` folder:
 | 06  | `06_Snow_Cold_Wave_Impact_Analysis.ipynb`     | Winter hazard impact analysis                                   | pystac-client, plotly, pandas, seaborn            |
 | 07  | `07_cascading_impacts_analysis.ipynb`         | Cascading disaster impact analysis                              | pystac-client, geopandas, folium, pandas          |
 | 08  | `08_Queryables_Deep_Dive.ipynb`               | Deep dive into STAC API queryables and CQL2 filtering           | pystac-client, requests, plotly, pandas           |
+| 09  | `09_EMDAT_Impact_Analysis.ipynb`              | EM-DAT people impact analysis with memory-optimized CSV export  | pystac-client, csv, pandas                        |
 
 ## Data Sources
 
