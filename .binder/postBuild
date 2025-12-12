@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Disable unnecessary JupyterLab extensions for faster startup
+jupyter labextension disable "@jupyterlab/apputils-extension:announcements" || true
+
+# Enable widgets (already included in ipywidgets package)
+jupyter nbextension enable --py widgetsnbextension --sys-prefix || true
+
+# Clean up to save space
+conda clean --all -f -y
+rm -rf /tmp/*
+
+echo "Build complete! Environment ready."

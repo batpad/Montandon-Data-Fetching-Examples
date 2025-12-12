@@ -1,0 +1,40 @@
+name: montandon-examples
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  # Core data/API packages
+  - pystac-client
+  - pystac
+  - pandas
+  - numpy
+  - requests
+  
+  # Visualization packages
+  - matplotlib-base  # lighter than full matplotlib
+  - seaborn
+  - plotly
+  - folium
+  
+  # Geospatial packages
+  - geopandas
+  - shapely
+  
+  # Analysis packages
+  - scikit-learn
+  - statsmodels
+  
+  # Jupyter packages
+  - jupyterlab
+  - ipywidgets
+  - ipykernel
+  
+  # Utilities
+  - pillow
+  - python-dateutil
+  
+  # pip-only packages
+  - pip:
+    - pymannkendall

@@ -31,7 +31,11 @@ Click to open the notebooks in an interactive environment:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arunissun/Montandon-Data-Fetching-Examples/HEAD)
 
-**Note:** When using Binder, you'll need to provide your own API token when prompted in the notebooks.
+**Notes:**
+
+- When using Binder, you'll need to provide your own API token when prompted in the notebooks.
+- First build may take 5-10 minutes. Subsequent launches use cached builds and start in ~1-2 minutes.
+- Environment configuration is in `.binder/` directory for optimized caching.
 
 ## Run in Google Colab
 
