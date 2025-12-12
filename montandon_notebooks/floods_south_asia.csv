@@ -1,0 +1,824 @@
+id,datetime,title,hazard_codes,primary_country,collection
+gdacs-event-4206,2014-11-07T00:00:00Z,Flood in Thailand,FL,,gdacs-events
+gdacs-event-4200,2014-10-22T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4198,2014-10-12T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4188,2014-09-24T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4179,2014-09-01T00:00:00Z,Flood in Pakistan,FL,,gdacs-events
+gdacs-event-4178,2014-08-20T00:00:00Z,Flood in Bangladesh,FL,,gdacs-events
+gdacs-event-4176,2014-08-15T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4174,2014-08-14T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4170,2014-08-12T00:00:00Z,Flood in Nepal,FL,,gdacs-events
+gdacs-event-4171,2014-08-11T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4165,2014-07-20T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4161,2014-07-13T00:00:00Z,Flood in Bangladesh,FL,,gdacs-events
+gdacs-event-4156,2014-07-11T00:00:00Z,Flood in Thailand,FL,,gdacs-events
+gdacs-event-4154,2014-06-23T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4145,2014-06-04T00:00:00Z,Flood in Sri Lanka,FL,,gdacs-events
+gdacs-event-4144,2014-06-03T00:00:00Z,Flood in Afghanistan,FL,,gdacs-events
+gdacs-event-4136,2014-04-20T00:00:00Z,Flood in Afghanistan,FL,,gdacs-events
+emdat-event-2014-0494-MYS,2014-12-16T00:00:00Z,Riverine flood in Malaysia,nat-hyd-flo-riv,MYS,emdat-events
+emdat-event-2014-0522-THA,2014-12-13T00:00:00Z,Riverine flood in Thailand,nat-hyd-flo-riv,THA,emdat-events
+emdat-event-2014-0493-THA,2014-12-01T00:00:00Z,Riverine flood in Thailand,nat-hyd-flo-riv,THA,emdat-events
+emdat-event-2014-0473-IDN,2014-11-22T00:00:00Z,Riverine flood in Indonesia,nat-hyd-flo-riv,IDN,emdat-events
+emdat-event-2014-0471-THA,2014-11-07T00:00:00Z,Flash flood in Thailand,nat-hyd-flo-fla,THA,emdat-events
+emdat-event-2014-0391-IND,2014-09-24T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2014-0412-MMR,2014-09-17T00:00:00Z,Riverine flood in Myanmar,nat-hyd-flo-riv,MMR,emdat-events
+emdat-event-2014-0389-CHN,2014-09-10T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0581-BGD,2014-09-01T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2014-0345-THA,2014-09-01T00:00:00Z,Riverine flood in Thailand,nat-hyd-flo-riv,THA,emdat-events
+emdat-event-2014-0344-CHN,2014-09-01T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0343-PAK,2014-09-01T00:00:00Z,Riverine flood in Pakistan,nat-hyd-flo-riv,PAK,emdat-events
+emdat-event-2014-0343-IND,2014-09-01T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2014-0323-CHN,2014-08-22T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0408-IND,2014-08-16T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2014-0321-CHN,2014-08-11T00:00:00Z,Flash flood in China,nat-hyd-flo-fla,CHN,emdat-events
+emdat-event-2014-0290-BGD,2014-08-11T00:00:00Z,Riverine flood in Bangladesh,nat-hyd-flo-riv,BGD,emdat-events
+emdat-event-2014-0272-NPL,2014-08-11T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2014-0409-IND,2014-08-09T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2014-0313-IND,2014-08-03T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2014-0413-MMR,2014-08-01T00:00:00Z,Riverine flood in Myanmar,nat-hyd-flo-riv,MMR,emdat-events
+emdat-event-2014-0268-NPL,2014-07-16T00:00:00Z,Riverine flood in Nepal,nat-hyd-flo-riv,NPL,emdat-events
+emdat-event-2014-0268-IND,2014-07-16T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2014-0267-CHN,2014-07-13T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0406-CHN,2014-07-10T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0266-CHN,2014-07-03T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0246-NPL,2014-07-01T00:00:00Z,Riverine flood in Nepal,nat-hyd-flo-riv,NPL,emdat-events
+emdat-event-2014-0218-IND,2014-06-26T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2014-0217-CHN,2014-06-25T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2014-0215-CHN,2014-06-17T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0181-LKA,2014-06-04T00:00:00Z,Riverine flood in Sri Lanka,nat-hyd-flo-riv,LKA,emdat-events
+emdat-event-2014-0185-AFG,2014-06-03T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2014-0212-CHN,2014-06-01T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0171-IRN,2014-06-01T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+emdat-event-2014-0180-CHN,2014-05-24T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2014-0204-TJK,2014-05-10T00:00:00Z,Flash flood in Tajikistan,nat-hyd-flo-fla,TJK,emdat-events
+emdat-event-2014-0134-AFG,2014-04-24T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2014-0122-TJK,2014-04-22T00:00:00Z,Flash flood in Tajikistan,nat-hyd-flo-fla,TJK,emdat-events
+emdat-event-2014-0535-LKA,2014-02-06T00:00:00Z,Riverine flood in Sri Lanka,nat-hyd-flo-riv,LKA,emdat-events
+glide-event-FL-2014-000162-LKA,2014-12-01T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2014-000122-PAK,2014-09-05T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2014-000117-BGD,2014-08-25T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2014-000117-IND,2014-08-19T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2014-000112-NPL,2014-08-14T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2014-000107-MMR,2014-08-05T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2014-000092-THA,2014-07-21T00:00:00Z,,nat-hyd-flo-flo;FL,THA,glide-events
+glide-event-FL-2014-000089-IND,2014-06-25T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2014-000070-LKA,2014-06-01T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FF-2014-000060-AFG,2014-04-25T00:00:00Z,,nat-hyd-flo-fla;FF,AFG,glide-events
+gdacs-event-4309,2015-11-10T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4288,2015-08-13T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4283,2015-07-15T00:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-4282,2015-07-15T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4272,2015-07-15T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-4270,2015-06-25T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-4265,2015-06-24T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4263,2015-06-24T00:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-4262,2015-06-10T00:00:00Z,Flood in Nepal,FL,,gdacs-events
+gdacs-event-4259,2015-06-02T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4251,2015-05-17T00:00:00Z,Flood in India,FL,,gdacs-events
+gdacs-event-4245,2015-04-26T00:00:00Z,Flood in Pakistan,FL,,gdacs-events
+gdacs-event-4239,2015-03-20T00:00:00Z,Flood in India,FL,,gdacs-events
+emdat-event-2015-0530-LKA,2015-11-15T00:00:00Z,Flash flood in Sri Lanka,nat-hyd-flo-fla,LKA,emdat-events
+emdat-event-2015-0504-IND,2015-11-08T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2015-0492-MMR,2015-10-08T00:00:00Z,Flash flood in Myanmar,nat-hyd-flo-fla,MMR,emdat-events
+emdat-event-2015-0547-LKA,2015-09-15T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2015-0457-CHN,2015-09-15T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2015-0406-IND,2015-08-28T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2015-0397-CHN,2015-08-16T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2015-0374-IND,2015-08-13T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2015-0395-CHN,2015-08-02T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2015-0293-BGD,2015-07-25T00:00:00Z,Riverine flood in Bangladesh,nat-hyd-flo-riv,BGD,emdat-events
+emdat-event-2015-0412-IDN,2015-07-15T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2015-0317-IND,2015-07-15T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2015-0308-MMR,2015-07-15T00:00:00Z,Riverine flood in Myanmar,nat-hyd-flo-riv,MMR,emdat-events
+emdat-event-2015-0291-PAK,2015-07-15T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2015-0286-TJK,2015-07-15T00:00:00Z,Riverine flood in Tajikistan,nat-hyd-flo-riv,TJK,emdat-events
+emdat-event-2015-0413-IND,2015-07-14T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2015-0258-IRN,2015-07-14T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2015-0333-PAK,2015-07-07T00:00:00Z,Riverine flood in Pakistan,nat-hyd-flo-riv,PAK,emdat-events
+emdat-event-2015-0333-IND,2015-07-07T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2015-0255-CHN,2015-06-26T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2015-0288-PAK,2015-06-25T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2015-0253-MMR,2015-06-23T00:00:00Z,Riverine flood in Myanmar,nat-hyd-flo-riv,MMR,emdat-events
+emdat-event-2015-0253-IND,2015-06-23T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2015-0253-BGD,2015-06-23T00:00:00Z,Riverine flood in Bangladesh,nat-hyd-flo-riv,BGD,emdat-events
+emdat-event-2015-0249-IND,2015-06-19T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2015-0240-CHN,2015-06-16T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2015-0248-CHN,2015-06-07T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2015-0215-PAK,2015-06-04T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2015-0207-IND,2015-05-17T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2015-0219-CHN,2015-05-13T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2015-0185-CHN,2015-05-13T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2015-0194-TJK,2015-05-11T00:00:00Z,Riverine flood in Tajikistan,nat-hyd-flo-riv,TJK,emdat-events
+emdat-event-2015-0581-AFG,2015-05-09T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2015-0145-PAK,2015-04-26T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2015-0107-IND,2015-03-20T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2015-0127-IRN,2015-03-11T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2015-0124-PAK,2015-02-24T00:00:00Z,Riverine flood in Pakistan,nat-hyd-flo-riv,PAK,emdat-events
+glide-event-FL-2015-000089-MMR,2015-07-19T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2015-000090-PAK,2015-07-15T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2015-000080-MMR,2015-07-02T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FF-2015-000077-BTN,2015-06-28T00:00:00Z,,nat-hyd-flo-fla;FF,BTN,glide-events
+glide-event-FL-2015-000068-BGD,2015-06-17T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2015-000064-IND,2015-06-05T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FF-2015-000062-PAK,2015-06-03T00:00:00Z,,nat-hyd-flo-fla;FF,PAK,glide-events
+glide-event-FL-2015-000029-IND,2015-03-30T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2015-000017-PAK,2015-02-24T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+gdacs-event-4405,2016-09-21T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4390,2016-08-15T00:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-4383,2016-08-01T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4382,2016-07-25T00:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-4387,2016-07-21T00:00:00Z,Flood in Bhutan,FL,BTN,gdacs-events
+gdacs-event-4384,2016-07-15T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4378,2016-07-07T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4373,2016-07-04T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-4372,2016-07-03T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-4371,2016-06-29T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4365,2016-06-01T00:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-4355,2016-04-20T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-4339,2016-03-12T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+emdat-event-2016-0472-THA,2016-12-01T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2016-0360-THA,2016-10-06T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2016-0391-IND,2016-09-21T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2016-0389-CHN,2016-09-18T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2016-0387-PAK,2016-08-27T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2016-0378-THA,2016-08-15T00:00:00Z,Flash flood in Thailand,nat-hyd-flo-fla,THA,emdat-events
+emdat-event-2016-0554-PAK,2016-08-06T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2016-0376-CHN,2016-08-05T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2016-0375-PAK,2016-08-05T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2016-0304-IND,2016-08-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2016-0270-PAK,2016-07-30T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2016-0267-IND,2016-07-28T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2016-0267-NPL,2016-07-25T00:00:00Z,Flash flood in Nepal,nat-hyd-flo-fla,NPL,emdat-events
+emdat-event-2016-0309-AFG,2016-07-19T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2016-0288-BGD,2016-07-19T00:00:00Z,Riverine flood in Bangladesh,nat-hyd-flo-riv,BGD,emdat-events
+emdat-event-2016-0307-MYS,2016-07-18T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2016-0554-IND,2016-07-17T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2016-0271-IND,2016-07-15T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2016-0276-IND,2016-07-09T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2016-0240-PAK,2016-07-03T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2016-0369-MMR,2016-07-01T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2016-0275-NPL,2016-06-29T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2016-0241-CHN,2016-06-28T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2016-0239-IND,2016-06-25T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2016-0238-CHN,2016-06-23T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2016-0236-CHN,2016-06-18T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2016-0233-CHN,2016-06-09T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2016-0232-MMR,2016-06-01T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2016-0198-CHN,2016-05-21T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2016-0194-CHN,2016-05-18T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2016-0153-LKA,2016-05-14T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2016-0191-TJK,2016-05-09T00:00:00Z,Flood (General) in Tajikistan,nat-hyd-flo-flo,TJK,emdat-events
+emdat-event-2016-0191-AFG,2016-05-09T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2016-0139-IND,2016-04-22T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2016-0137-CHN,2016-04-20T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2016-0135-AFG,2016-04-16T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2016-0112-PAK,2016-04-02T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2016-0112-AFG,2016-04-02T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2016-0553-PAK,2016-03-09T00:00:00Z,Riverine flood in Pakistan,nat-hyd-flo-riv,PAK,emdat-events
+emdat-event-2016-0040-IDN,2016-02-07T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+glide-event-FF-2016-000135-NPL,2016-12-18T00:00:00Z,,nat-hyd-flo-fla;FF,NPL,glide-events
+glide-event-FL-2016-000094-IND,2016-08-25T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FF-2016-000092-MMR,2016-08-19T00:00:00Z,,nat-hyd-flo-fla;FF,MMR,glide-events
+glide-event-FL-2016-000075-BGD,2016-08-01T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2016-000077-BTN,2016-07-21T00:00:00Z,,nat-hyd-flo-flo;FL,BTN,glide-events
+glide-event-FL-2016-000068-NPL,2016-07-06T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2016-000066-PAK,2016-07-02T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2016-000058-MMR,2016-06-09T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2016-000060-IND,2016-06-08T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2016-000050-LKA,2016-05-15T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2016-000021-PAK,2016-03-21T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+emdat-event-2017-0516-THA,2017-11-25T00:00:00Z,Riverine flood in Thailand,nat-hyd-flo-riv,THA,emdat-events
+emdat-event-2017-0494-IDN,2017-11-03T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2017-0493-LKA,2017-11-03T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2017-0477-MYS,2017-11-03T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2017-0495-IND,2017-10-30T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2017-0465-THA,2017-10-10T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2017-0463-CHN,2017-10-01T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2017-0398-CHN,2017-09-24T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2017-0364-IND,2017-08-29T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2017-0517-IND,2017-08-16T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2017-0476-CHN,2017-08-11T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2017-0342-IND,2017-08-11T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2017-0472-IRN,2017-08-10T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2017-0342-NPL,2017-08-10T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2017-0342-BGD,2017-08-10T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2017-0372-CHN,2017-08-08T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2017-0288-AFG,2017-07-17T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2017-0264-CHN,2017-07-08T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2017-0316-THA,2017-07-05T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2017-0311-MMR,2017-07-02T00:00:00Z,Riverine flood in Myanmar,nat-hyd-flo-riv,MMR,emdat-events
+emdat-event-2017-0290-IND,2017-07-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2017-0321-NPL,2017-06-30T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2017-0243-PAK,2017-06-26T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2017-0289-IND,2017-06-25T00:00:00Z,Riverine flood in India,nat-hyd-flo-riv,IND,emdat-events
+emdat-event-2017-0245-CHN,2017-06-22T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2017-0187-CHN,2017-06-15T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2017-0254-CHN,2017-06-08T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2017-0180-IND,2017-06-04T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2017-0294-IND,2017-06-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2017-0257-IND,2017-06-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2017-0169-CHN,2017-05-31T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2017-0153-LKA,2017-05-25T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2017-0138-BGD,2017-03-28T00:00:00Z,Riverine flood in Bangladesh,nat-hyd-flo-riv,BGD,emdat-events
+emdat-event-2017-0045-PAK,2017-01-17T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+glide-event-FL-2017-000108-BGD,2017-08-14T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2017-000107-NPL,2017-08-14T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FF-2017-000150-AFG,2017-07-18T00:00:00Z,,nat-hyd-flo-fla;FF,AFG,glide-events
+glide-event-FL-2017-000084-IND,2017-07-14T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2017-000091-MMR,2017-07-05T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2017-000115-PAK,2017-06-30T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2017-000064-IND,2017-06-04T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2017-000057-LKA,2017-05-26T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2017-000046-BGD,2017-03-28T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2017-000017-PAK,2017-01-17T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2017-000004-THA,2017-01-09T00:00:00Z,,nat-hyd-flo-flo;FL,THA,glide-events
+emdat-event-2018-0467-LKA,2018-12-22T00:00:00Z,Flash flood in Sri Lanka,nat-hyd-flo-fla,LKA,emdat-events
+emdat-event-2018-0471-IDN,2018-11-26T00:00:00Z,Flash flood in Indonesia,nat-hyd-flo-fla,IDN,emdat-events
+emdat-event-2018-0384-LKA,2018-10-06T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2018-0383-IRN,2018-10-05T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2018-0372-IND,2018-09-23T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2018-0370-IND,2018-09-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2018-0369-CHN,2018-08-29T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2018-0314-MMR,2018-08-29T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2018-0350-AFG,2018-08-24T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2018-0295-IND,2018-08-07T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2018-0345-IND,2018-08-02T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2018-0267-IND,2018-07-26T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2018-0286-IND,2018-07-20T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2018-0255-MMR,2018-07-15T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2018-0250-CHN,2018-07-07T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2018-0219-NPL,2018-07-01T00:00:00Z,Flash flood in Nepal,nat-hyd-flo-fla,NPL,emdat-events
+emdat-event-2018-0282-CHN,2018-06-28T00:00:00Z,Riverine flood in China,nat-hyd-flo-riv,CHN,emdat-events
+emdat-event-2018-0205-IND,2018-06-22T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2018-0203-MMR,2018-06-05T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2018-0203-BGD,2018-06-05T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2018-0216-IND,2018-05-29T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2018-0158-BGD,2018-05-20T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2018-0278-LKA,2018-05-19T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2018-0213-IND,2018-05-17T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2018-0207-TJK,2018-05-16T00:00:00Z,Flood (General) in Tajikistan,nat-hyd-flo-flo,TJK,emdat-events
+emdat-event-2018-0156-AFG,2018-05-09T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2018-0212-PAK,2018-05-07T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2018-0212-AFG,2018-05-07T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2018-0210-CHN,2018-05-07T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2018-0198-CHN,2018-05-05T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+glide-event-FL-2018-000425-LKA,2018-12-21T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2018-000134-IND,2018-08-15T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2018-000124-MMR,2018-06-17T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2018-000070-BGD,2018-06-09T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2018-000060-LKA,2018-05-20T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2018-000105-BGD,2018-04-01T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+gdacs-event-1100326,2019-12-18T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100295,2019-12-11T00:00:00Z,Flood in Maldives,FL,MDV,gdacs-events
+gdacs-event-1100287,2019-11-29T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100274,2019-11-28T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100273,2019-11-09T00:00:00Z,"Flood in Bangladesh, India",FL,BGD,gdacs-events
+gdacs-event-1100275,2019-10-25T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100288,2019-10-17T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100276,2019-10-17T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100218,2019-09-30T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100199,2019-09-24T14:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100221,2019-09-23T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100182,2019-09-04T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100118,2019-08-14T14:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100122,2019-08-09T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100129,2019-08-06T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100121,2019-08-04T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100102,2019-07-14T13:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100104,2019-07-14T00:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1100100,2019-07-08T15:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100101,2019-07-08T13:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1100105,2019-07-07T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100103,2019-06-25T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100140,2019-05-30T00:00:00Z,Flood in Maldives,FL,MDV,gdacs-events
+emdat-event-2019-0629-LKA,2019-12-18T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2019-0656-LKA,2019-12-02T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2019-0577-LKA,2019-11-29T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2019-0574-IND,2019-11-29T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2019-0523-MYS,2019-10-26T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2019-0523-IDN,2019-10-26T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2019-0499-LKA,2019-10-24T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2019-0499-IND,2019-10-19T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2019-0471-PAK,2019-09-30T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2019-0452-LKA,2019-09-23T00:00:00Z,Flash flood in Sri Lanka,nat-hyd-flo-fla,LKA,emdat-events
+emdat-event-2019-0419-THA,2019-09-11T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2019-0464-PAK,2019-08-16T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2019-0383-IND,2019-08-12T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2019-0386-PAK,2019-08-09T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2019-0385-MMR,2019-08-08T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2019-0372-PAK,2019-07-29T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2019-0346-PAK,2019-07-16T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2019-0470-PAK,2019-07-15T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2019-0333-CHN,2019-07-15T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2019-0347-MMR,2019-07-14T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2019-0331-IND,2019-07-14T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2019-0332-NPL,2019-07-08T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2019-0288-IND,2019-06-28T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2019-0209-CHN,2019-06-13T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2019-0216-AFG,2019-06-11T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2019-0337-BGD,2019-06-01T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2019-0216-TJK,2019-06-01T00:00:00Z,Flash flood in Tajikistan,nat-hyd-flo-fla,TJK,emdat-events
+emdat-event-2019-0220-MDV,2019-05-30T00:00:00Z,Flood (General) in Maldives,nat-hyd-flo-flo,MDV,emdat-events
+emdat-event-2019-0255-AFG,2019-05-22T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2019-0201-PAK,2019-04-13T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2019-0143-AFG,2019-03-30T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2019-0125-IRN,2019-03-19T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+emdat-event-2019-0125-AFG,2019-03-18T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2019-0082-IRN,2019-03-09T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+emdat-event-2019-0082-AFG,2019-03-02T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2019-0082-PAK,2019-02-20T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2019-0050-AFG,2019-01-06T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+glide-event-FL-2019-000087-PAK,2019-07-15T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2019-000083-NPL,2019-07-13T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2019-000079-BGD,2019-06-17T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+gdacs-event-1100696,2020-12-02T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100697,2020-12-01T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100670,2020-11-12T00:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1100653,2020-10-22T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100652,2020-10-22T00:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1100647,2020-10-12T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100633,2020-09-24T00:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1100628,2020-09-23T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100627,2020-09-22T00:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1100618,2020-09-13T00:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1100611,2020-09-12T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100607,2020-09-12T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100608,2020-09-05T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100600,2020-09-02T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100592,2020-08-25T00:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1100588,2020-08-20T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100579,2020-08-14T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100578,2020-08-14T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100566,2020-08-07T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100551,2020-08-01T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100549,2020-07-30T00:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1100546,2020-07-26T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100555,2020-07-15T00:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1100553,2020-07-11T00:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1100531,2020-07-06T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100529,2020-07-04T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100530,2020-07-02T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100524,2020-07-02T00:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1100539,2020-07-01T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100541,2020-06-28T00:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1100521,2020-06-27T00:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1100528,2020-06-22T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100515,2020-06-20T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100499,2020-06-12T00:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100500,2020-06-02T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100480,2020-05-19T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100482,2020-05-14T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100469,2020-05-11T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100442,2020-04-14T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100440,2020-04-13T00:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1100416,2020-03-27T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100421,2020-03-24T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100415,2020-03-21T00:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1100394,2020-03-05T00:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+emdat-event-2020-0551-IDN,2020-12-12T00:00:00Z,Flash flood in Indonesia,nat-hyd-flo-fla,IDN,emdat-events
+emdat-event-2020-0548-LKA,2020-12-02T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2020-0532-IDN,2020-12-02T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2020-0529-THA,2020-11-25T00:00:00Z,Flash flood in Thailand,nat-hyd-flo-fla,THA,emdat-events
+emdat-event-2020-0446-IND,2020-10-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2020-0461-LKA,2020-09-01T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2020-0377-AFG,2020-08-25T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2020-0384-THA,2020-08-22T00:00:00Z,Flash flood in Thailand,nat-hyd-flo-fla,THA,emdat-events
+emdat-event-2020-0581-CHN,2020-08-01T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2020-0357-PAK,2020-08-01T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2020-0311-AFG,2020-07-31T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2020-0329-MMR,2020-07-19T00:00:00Z,Flash flood in Myanmar,nat-hyd-flo-fla,MMR,emdat-events
+emdat-event-2020-0276-CHN,2020-06-30T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2020-0265-IDN,2020-06-18T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2020-0323-BGD,2020-06-15T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2020-0304-IND,2020-06-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2020-0297-NPL,2020-06-01T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2020-0249-PAK,2020-06-01T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2020-0249-IND,2020-06-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2020-0206-IND,2020-05-24T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2020-0245-IDN,2020-05-22T00:00:00Z,Flash flood in Indonesia,nat-hyd-flo-fla,IDN,emdat-events
+emdat-event-2020-0322-CHN,2020-05-21T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2020-0527-TJK,2020-05-14T00:00:00Z,Flood (General) in Tajikistan,nat-hyd-flo-flo,TJK,emdat-events
+emdat-event-2020-0198-IND,2020-05-10T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2020-0153-AFG,2020-05-02T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2020-0142-AFG,2020-04-13T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2020-0142-IRN,2020-04-10T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+emdat-event-2020-0133-PAK,2020-03-31T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2020-0124-AFG,2020-03-28T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2020-0095-PAK,2020-03-04T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2020-0118-IRN,2020-02-24T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+emdat-event-2020-0017-IRN,2020-01-09T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+glide-event-FL-2020-000237-LKA,2020-12-08T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FF-2020-000191-AFG,2020-08-26T00:00:00Z,,nat-hyd-flo-fla;FF,AFG,glide-events
+glide-event-FL-2020-000185-PAK,2020-08-10T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2020-000172-MMR,2020-07-19T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2020-000166-BGD,2020-07-15T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2020-000165-NPL,2020-07-09T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+gdacs-event-1101202,2021-12-04T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101186,2021-11-25T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101191,2021-11-23T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101164,2021-11-14T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101166,2021-11-06T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101161,2021-10-25T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101132,2021-10-16T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1101125,2021-10-12T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101126,2021-09-28T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101105,2021-09-22T01:00:00Z,Flood in Colombia,FL,COL,gdacs-events
+gdacs-event-1101086,2021-09-11T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101064,2021-08-30T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101066,2021-08-23T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101046,2021-08-22T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101083,2021-08-20T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1101063,2021-08-11T01:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1101047,2021-08-11T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101071,2021-08-07T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1101010,2021-07-28T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101014,2021-07-27T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1100995,2021-07-26T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1101012,2021-07-25T01:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1100977,2021-07-24T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100997,2021-07-11T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100949,2021-06-28T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100933,2021-06-19T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100910,2021-06-09T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100902,2021-05-24T01:00:00Z,"Flood in Bangladesh, India",FL,BGD,gdacs-events
+gdacs-event-1100898,2021-05-22T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1100905,2021-05-11T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100883,2021-05-11T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100857,2021-05-02T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1100837,2021-04-18T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100819,2021-04-06T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1100755,2021-02-07T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100736,2021-01-11T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1100728,2021-01-11T00:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1100718,2021-01-02T00:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+emdat-event-2021-0779-THA,2021-11-29T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2021-0748-IND,2021-11-18T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0722-LKA,2021-11-06T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2021-0722-IND,2021-11-06T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0714-LKA,2021-10-25T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2021-0686-MYS,2021-10-20T00:00:00Z,Flash flood in Malaysia,nat-hyd-flo-fla,MYS,emdat-events
+emdat-event-2021-0681-IND,2021-10-18T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0681-NPL,2021-10-16T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2021-0674-THA,2021-10-12T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2021-0677-IND,2021-10-11T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0612-THA,2021-09-19T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2021-0585-IND,2021-09-13T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0596-PAK,2021-09-11T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2021-0605-NPL,2021-09-02T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2021-0609-THA,2021-08-27T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2021-0530-IDN,2021-08-19T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2021-0524-MYS,2021-08-17T00:00:00Z,Flash flood in Malaysia,nat-hyd-flo-fla,MYS,emdat-events
+emdat-event-2021-0458-IND,2021-07-28T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2021-0456-PAK,2021-07-28T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2021-0453-AFG,2021-07-28T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2021-0455-BGD,2021-07-27T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2021-0451-MMR,2021-07-21T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2021-0379-IDN,2021-07-05T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2021-0846-PAK,2021-07-01T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2021-0381-NPL,2021-07-01T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2021-0366-IND,2021-07-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0308-NPL,2021-06-16T00:00:00Z,Flash flood in Nepal,nat-hyd-flo-fla,NPL,emdat-events
+emdat-event-2021-0308-BTN,2021-06-16T00:00:00Z,Flash flood in Bhutan,nat-hyd-flo-fla,BTN,emdat-events
+emdat-event-2021-0435-IND,2021-06-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0316-IND,2021-06-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2021-0253-LKA,2021-05-13T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2021-0272-TJK,2021-05-07T00:00:00Z,Flood (General) in Tajikistan,nat-hyd-flo-flo,TJK,emdat-events
+emdat-event-2021-0263-AFG,2021-05-02T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2021-0259-IRN,2021-05-01T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2021-0234-IND,2021-04-23T00:00:00Z,Glacial lake outburst flood in India,nat-cli-glo-glo,IND,emdat-events
+emdat-event-2021-0185-IDN,2021-03-25T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2021-0205-PAK,2021-03-22T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2021-0072-IND,2021-02-07T00:00:00Z,Glacial lake outburst flood in India,nat-cli-glo-glo,IND,emdat-events
+glide-event-FL-2021-000188-LKA,2021-11-10T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2021-000172-IND,2021-11-07T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2021-000161-IND,2021-10-16T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2021-000147-THA,2021-09-23T00:00:00Z,,nat-hyd-flo-flo;FL,THA,glide-events
+glide-event-FL-2021-000134-NPL,2021-09-03T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2021-000128-MMR,2021-08-27T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FF-2021-000102-AFG,2021-08-01T00:00:00Z,,nat-hyd-flo-fla;FF,AFG,glide-events
+glide-event-FL-2021-000097-BGD,2021-07-27T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2021-000095-MMR,2021-07-25T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2021-000057-LKA,2021-05-18T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2021-000050-AFG,2021-05-03T00:00:00Z,,nat-hyd-flo-flo;FL,AFG,glide-events
+glide-event-FL-2021-000021-IND,2021-02-07T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+gdacs-event-1101776,2022-12-08T01:00:00Z,"Flood in India, Sri Lanka",FL,LKA,gdacs-events
+gdacs-event-1101741,2022-11-07T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101720,2022-10-24T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1101718,2022-10-16T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101706,2022-10-12T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101692,2022-10-05T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101695,2022-10-04T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1101679,2022-09-15T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101667,2022-09-15T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1101653,2022-09-09T01:00:00Z,"Flood in India, Nepal",FL,NPL,gdacs-events
+gdacs-event-1101645,2022-09-02T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101591,2022-08-12T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101588,2022-08-11T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101564,2022-08-02T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1101576,2022-08-01T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101565,2022-08-01T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101586,2022-07-24T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101521,2022-07-05T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101528,2022-07-01T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101509,2022-06-30T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101529,2022-06-28T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101485,2022-06-18T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101522,2022-06-14T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101484,2022-06-10T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1101477,2022-06-08T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101467,2022-06-06T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1101447,2022-05-30T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101464,2022-05-29T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101426,2022-05-15T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101416,2022-05-13T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101423,2022-05-09T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1101410,2022-05-09T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101403,2022-05-07T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101415,2022-05-05T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101398,2022-05-01T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101358,2022-04-15T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101350,2022-04-03T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1101337,2022-04-03T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101338,2022-04-02T01:00:00Z,Flood in China,FL,CHN,gdacs-events
+gdacs-event-1101320,2022-03-20T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101321,2022-03-17T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101267,2022-01-21T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+emdat-event-2022-0847-IDN,2022-12-25T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2022-0810-THA,2022-12-19T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0782-IDN,2022-11-25T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2022-0732-THA,2022-11-08T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0732-IDN,2022-11-08T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2022-0736-IDN,2022-11-07T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2022-0677-LKA,2022-10-14T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2022-0642-IDN,2022-10-04T00:00:00Z,Flash flood in Indonesia,nat-hyd-flo-fla,IDN,emdat-events
+emdat-event-2022-0694-IDN,2022-10-03T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2022-0590-IND,2022-09-18T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2022-0590-NPL,2022-09-09T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2022-0785-LKA,2022-09-02T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2022-0635-THA,2022-09-01T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0530-CHN,2022-08-17T00:00:00Z,Flash flood in China,nat-hyd-flo-fla,CHN,emdat-events
+emdat-event-2022-0514-AFG,2022-08-16T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2022-0515-THA,2022-08-14T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0515-CHN,2022-08-10T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2022-0493-NPL,2022-08-02T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2022-0539-IND,2022-08-01T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2022-0490-LKA,2022-08-01T00:00:00Z,Flash flood in Sri Lanka,nat-hyd-flo-fla,LKA,emdat-events
+emdat-event-2022-0428-CHN,2022-07-25T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2022-0453-AFG,2022-07-24T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2022-0476-IRN,2022-07-23T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2022-0474-THA,2022-07-17T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0418-IDN,2022-07-05T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2022-0408-MYS,2022-07-04T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2022-0442-AFG,2022-06-30T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2022-0523-AFG,2022-06-22T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2022-0405-PAK,2022-06-14T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2022-0324-IDN,2022-05-21T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2022-0326-THA,2022-05-20T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0340-BGD,2022-05-17T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2022-0293-IND,2022-05-17T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2022-0305-THA,2022-05-14T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0316-CHN,2022-05-09T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2022-0264-AFG,2022-05-02T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2022-0199-THA,2022-04-03T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2022-0119-THA,2022-02-25T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+glide-event-FL-2022-000354-BGD,2022-10-29T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2022-000335-IND,2022-10-10T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2022-000347-NPL,2022-10-04T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2022-000295-IND,2022-08-24T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2022-000270-PAK,2022-07-21T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2022-000262-AFG,2022-07-14T00:00:00Z,,nat-hyd-flo-flo;FL,AFG,glide-events
+glide-event-FL-2022-000255-IND,2022-07-06T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2022-000217-IND,2022-05-22T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2022-000217-BGD,2022-05-22T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2022-000213-IND,2022-05-13T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FF-2022-000209-AFG,2022-05-03T00:00:00Z,,nat-hyd-flo-fla;FF,AFG,glide-events
+glide-event-FL-2022-000180-THA,2022-02-28T00:00:00Z,,nat-hyd-flo-flo;FL,THA,glide-events
+glide-event-FL-2022-000155-PAK,2022-01-20T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+gdacs-event-1102400,2023-12-16T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102394,2023-12-09T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102372,2023-12-03T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102357,2023-11-21T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102345,2023-11-17T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102358,2023-11-16T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102353,2023-11-16T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1102326,2023-11-09T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102317,2023-11-06T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102323,2023-11-04T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102292,2023-10-24T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102291,2023-10-24T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102264,2023-10-08T01:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1102254,2023-10-03T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102247,2023-09-27T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102223,2023-09-15T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102267,2023-09-06T01:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1102192,2023-08-16T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102176,2023-08-09T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102163,2023-08-06T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102171,2023-08-03T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102166,2023-08-02T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1102165,2023-08-02T01:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1102142,2023-07-22T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102143,2023-07-20T01:00:00Z,Flood in Bhutan,FL,BTN,gdacs-events
+gdacs-event-1102138,2023-07-15T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102135,2023-07-07T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102120,2023-07-05T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102113,2023-07-01T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102108,2023-06-27T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102096,2023-06-26T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102090,2023-06-21T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102074,2023-06-17T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102077,2023-06-14T01:00:00Z,"Flood in India, Pakistan",FL,PAK,gdacs-events
+gdacs-event-1102069,2023-06-13T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102068,2023-06-11T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102063,2023-06-10T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102039,2023-06-01T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102042,2023-05-30T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102021,2023-05-23T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102012,2023-05-19T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101999,2023-05-14T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102003,2023-05-13T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1102000,2023-05-13T01:00:00Z,"Flood in Bangladesh, India, Myanmar",FL,BGD,gdacs-events
+gdacs-event-1101983,2023-05-05T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101993,2023-05-02T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101975,2023-05-01T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101965,2023-04-30T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101963,2023-04-19T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101948,2023-04-18T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101918,2023-04-01T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1101915,2023-03-25T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1101910,2023-03-18T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101896,2023-03-17T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1101872,2023-02-20T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1101843,2023-02-01T01:00:00Z,"Flood in India, Sri Lanka",FL,LKA,gdacs-events
+emdat-event-2023-0854-THA,2023-12-22T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2023-0854-MYS,2023-12-22T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2023-0846-IND,2023-12-18T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2023-0803-IDN,2023-11-24T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2023-0729-MYS,2023-11-05T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2023-0633-MMR,2023-10-05T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2023-0622-IND,2023-10-05T00:00:00Z,Glacial lake outburst flood in India,nat-cli-glo-glo,IND,emdat-events
+emdat-event-2023-0654-LKA,2023-09-28T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2023-0615-CHN,2023-09-07T00:00:00Z,Flash flood in China,nat-hyd-flo-fla,CHN,emdat-events
+emdat-event-2023-0601-IDN,2023-09-01T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2023-0571-PAK,2023-09-01T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2023-0570-TJK,2023-08-27T00:00:00Z,Flood (General) in Tajikistan,nat-hyd-flo-flo,TJK,emdat-events
+emdat-event-2023-0542-PAK,2023-08-20T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2023-0551-CHN,2023-08-11T00:00:00Z,Flash flood in China,nat-hyd-flo-fla,CHN,emdat-events
+emdat-event-2023-0512-BGD,2023-08-07T00:00:00Z,Flash flood in Bangladesh,nat-hyd-flo-fla,BGD,emdat-events
+emdat-event-2023-0517-MMR,2023-08-03T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2023-0516-CHN,2023-08-01T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2023-0503-CHN,2023-08-01T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2023-0486-IND,2023-07-27T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2023-0462-PAK,2023-07-22T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2023-0462-AFG,2023-07-22T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2023-0437-IDN,2023-07-07T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2023-0418-THA,2023-07-03T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2023-0417-CHN,2023-07-02T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2023-0359-IND,2023-06-26T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2023-0428-PAK,2023-06-25T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2023-0428-IND,2023-06-25T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2023-0326-NPL,2023-06-15T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2023-0330-IND,2023-06-14T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2023-0354-PAK,2023-06-10T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2023-0341-CHN,2023-06-01T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2023-0291-AFG,2023-05-05T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2023-0285-CHN,2023-05-05T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2023-0266-PAK,2023-04-29T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2023-0173-PAK,2023-03-25T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2023-0208-PAK,2023-03-24T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2023-0159-PAK,2023-03-17T00:00:00Z,Flash flood in Pakistan,nat-hyd-flo-fla,PAK,emdat-events
+emdat-event-2023-0120-MYS,2023-02-28T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2023-0044-IDN,2023-01-27T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2023-0041-MYS,2023-01-20T00:00:00Z,Flood (General) in Malaysia,nat-hyd-flo-flo,MYS,emdat-events
+emdat-event-2023-0041-IDN,2023-01-20T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+glide-event-FL-2023-000211-BGD,2023-10-24T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2023-000201-MMR,2023-10-09T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2023-000196-LKA,2023-10-06T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2023-000189-MMR,2023-09-08T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2023-000157-BGD,2023-08-07T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FF-2023-000122-BTN,2023-07-20T00:00:00Z,,nat-hyd-flo-fla;FF,BTN,glide-events
+glide-event-FL-2023-000120-PAK,2023-07-17T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2023-000119-PAK,2023-07-17T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FF-2023-000133-AFG,2023-07-16T00:00:00Z,,nat-hyd-flo-fla;FF,AFG,glide-events
+glide-event-FL-2023-000112-IND,2023-07-09T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2023-000104-IND,2023-06-14T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2023-000073-BGD,2023-05-13T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+gdacs-event-1103051,2024-12-17T01:00:00Z,Flood in Maldives,FL,MDV,gdacs-events
+gdacs-event-1103049,2024-12-12T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1103048,2024-12-12T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1103031,2024-12-01T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1103023,2024-11-18T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102974,2024-10-20T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102957,2024-10-08T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102947,2024-10-07T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102937,2024-10-05T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102925,2024-10-01T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1102923,2024-09-26T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102945,2024-09-20T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102897,2024-09-12T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102862,2024-09-05T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102863,2024-08-30T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102847,2024-08-18T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102836,2024-08-16T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102846,2024-08-15T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1102817,2024-08-10T01:00:00Z,Flood in Bhutan,FL,BTN,gdacs-events
+gdacs-event-1102821,2024-08-09T01:00:00Z,Flood in Indonesia,FL,IDN,gdacs-events
+gdacs-event-1102813,2024-08-04T01:00:00Z,Flood in Tajikistan,FL,TJK,gdacs-events
+gdacs-event-1102808,2024-07-30T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102785,2024-07-29T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102762,2024-07-15T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102747,2024-07-05T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102743,2024-07-01T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102735,2024-06-30T01:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1102727,2024-06-24T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102722,2024-06-23T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102717,2024-06-18T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102700,2024-06-17T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102678,2024-06-10T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102660,2024-06-01T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102658,2024-05-28T01:00:00Z,Flood in Myanmar,FL,MMR,gdacs-events
+gdacs-event-1102653,2024-05-26T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102652,2024-05-26T01:00:00Z,Flood in Bangladesh,FL,BGD,gdacs-events
+gdacs-event-1102648,2024-05-23T01:00:00Z,Flood in Thailand,FL,THA,gdacs-events
+gdacs-event-1102635,2024-05-19T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+gdacs-event-1102630,2024-05-17T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102616,2024-05-09T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102591,2024-04-25T01:00:00Z,Flood in India,FL,IND,gdacs-events
+gdacs-event-1102585,2024-04-21T01:00:00Z,Flood in Nepal,FL,NPL,gdacs-events
+gdacs-event-1102570,2024-04-14T01:00:00Z,Flood in Islamic Republic of Iran,FL,IRN,gdacs-events
+gdacs-event-1102572,2024-04-12T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102576,2024-04-11T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102553,2024-03-29T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102535,2024-03-20T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102506,2024-03-01T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102502,2024-03-01T01:00:00Z,Flood in Afghanistan,FL,AFG,gdacs-events
+gdacs-event-1102496,2024-02-26T01:00:00Z,"Flood in Islamic Republic of Iran, Pakistan",FL,PAK,gdacs-events
+gdacs-event-1102483,2024-02-17T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102457,2024-02-03T01:00:00Z,Flood in Pakistan,FL,PAK,gdacs-events
+gdacs-event-1102431,2024-01-08T01:00:00Z,Flood in Sri Lanka,FL,LKA,gdacs-events
+emdat-event-2024-0898-IDN,2024-12-03T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2024-0882-THA,2024-11-25T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2024-0865-IDN,2024-11-23T00:00:00Z,Flash flood in Indonesia,nat-hyd-flo-fla,IDN,emdat-events
+emdat-event-2024-0719-BGD,2024-10-05T00:00:00Z,Flood (General) in Bangladesh,nat-hyd-flo-flo,BGD,emdat-events
+emdat-event-2024-0719-IND,2024-10-04T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2024-0707-IRN,2024-09-30T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2024-0692-NPL,2024-09-26T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2024-0647-IND,2024-08-26T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2024-0644-IDN,2024-08-25T00:00:00Z,Flash flood in Indonesia,nat-hyd-flo-fla,IDN,emdat-events
+emdat-event-2024-0624-IND,2024-08-19T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2024-0624-BGD,2024-08-19T00:00:00Z,Flash flood in Bangladesh,nat-hyd-flo-fla,BGD,emdat-events
+emdat-event-2024-0628-THA,2024-08-16T00:00:00Z,Flood (General) in Thailand,nat-hyd-flo-flo,THA,emdat-events
+emdat-event-2024-0596-NPL,2024-08-16T00:00:00Z,Glacial lake outburst flood in Nepal,nat-cli-glo-glo,NPL,emdat-events
+emdat-event-2024-0568-CHN,2024-08-03T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2024-0561-IND,2024-07-31T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2024-0552-CHN,2024-07-27T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2024-0514-CHN,2024-07-19T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2024-0486-AFG,2024-07-15T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2024-0482-CHN,2024-07-11T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2024-0481-IND,2024-07-09T00:00:00Z,Flood (General) in India,nat-hyd-flo-flo,IND,emdat-events
+emdat-event-2024-0481-PAK,2024-07-01T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2024-0434-MMR,2024-06-30T00:00:00Z,Flood (General) in Myanmar,nat-hyd-flo-flo,MMR,emdat-events
+emdat-event-2024-0327-IDN,2024-06-04T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2024-0428-NPL,2024-06-01T00:00:00Z,Flood (General) in Nepal,nat-hyd-flo-flo,NPL,emdat-events
+emdat-event-2024-0399-BGD,2024-05-29T00:00:00Z,Flash flood in Bangladesh,nat-hyd-flo-fla,BGD,emdat-events
+emdat-event-2024-0310-AFG,2024-05-18T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2024-0357-IRN,2024-05-15T00:00:00Z,Flash flood in Iran (Islamic Republic of),nat-hyd-flo-fla,IRN,emdat-events
+emdat-event-2024-0298-LKA,2024-05-15T00:00:00Z,Flood (General) in Sri Lanka,nat-hyd-flo-flo,LKA,emdat-events
+emdat-event-2024-0289-IDN,2024-05-11T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2024-0285-AFG,2024-05-10T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2024-0284-TJK,2024-05-05T00:00:00Z,Flash flood in Tajikistan,nat-hyd-flo-fla,TJK,emdat-events
+emdat-event-2024-0399-IND,2024-05-01T00:00:00Z,Flash flood in India,nat-hyd-flo-fla,IND,emdat-events
+emdat-event-2024-0234-CHN,2024-04-19T00:00:00Z,Flood (General) in China,nat-hyd-flo-flo,CHN,emdat-events
+emdat-event-2024-0249-IDN,2024-04-16T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2024-0233-IRN,2024-04-16T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+emdat-event-2024-0204-IDN,2024-04-07T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+emdat-event-2024-0181-AFG,2024-03-21T00:00:00Z,Flash flood in Afghanistan,nat-hyd-flo-fla,AFG,emdat-events
+emdat-event-2024-0120-PAK,2024-02-27T00:00:00Z,Flood (General) in Pakistan,nat-hyd-flo-flo,PAK,emdat-events
+emdat-event-2024-0120-IRN,2024-02-27T00:00:00Z,Flood (General) in Iran (Islamic Republic of),nat-hyd-flo-flo,IRN,emdat-events
+emdat-event-2024-0120-AFG,2024-02-27T00:00:00Z,Flood (General) in Afghanistan,nat-hyd-flo-flo,AFG,emdat-events
+emdat-event-2024-0101-IDN,2024-02-15T00:00:00Z,Flood (General) in Indonesia,nat-hyd-flo-flo,IDN,emdat-events
+glide-event-FL-2024-000197-IND,2024-10-20T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2024-000189-LKA,2024-10-05T00:00:00Z,,nat-hyd-flo-flo;FL,LKA,glide-events
+glide-event-FL-2024-000177-NPL,2024-09-29T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2024-000180-NPL,2024-09-26T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2024-000166-PAK,2024-08-26T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FF-2024-000154-BGD,2024-08-21T00:00:00Z,,nat-hyd-flo-fla;FF,BGD,glide-events
+glide-event-FL-2024-000146-NPL,2024-08-16T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2024-000140-BTN,2024-08-10T00:00:00Z,,nat-hyd-flo-flo;FL,BTN,glide-events
+glide-event-FL-2024-000132-NPL,2024-07-31T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2024-000130-MMR,2024-07-25T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2024-000108-NPL,2024-07-08T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2024-000107-NPL,2024-07-06T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FL-2024-000109-IND,2024-07-03T00:00:00Z,,nat-hyd-flo-flo;FL,IND,glide-events
+glide-event-FL-2024-000104-MMR,2024-07-01T00:00:00Z,,nat-hyd-flo-flo;FL,MMR,glide-events
+glide-event-FL-2024-000103-NPL,2024-06-26T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FF-2024-000100-BGD,2024-06-25T00:00:00Z,,nat-hyd-flo-fla;FF,BGD,glide-events
+glide-event-FL-2024-000118-PAK,2024-06-05T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2024-000088-BGD,2024-06-03T00:00:00Z,,nat-hyd-flo-flo;FL,BGD,glide-events
+glide-event-FL-2024-000068-AFG,2024-05-09T00:00:00Z,,nat-hyd-flo-flo;FL,AFG,glide-events
+glide-event-FL-2024-000052-NPL,2024-04-23T00:00:00Z,,nat-hyd-flo-flo;FL,NPL,glide-events
+glide-event-FF-2024-000049-AFG,2024-04-15T00:00:00Z,,nat-hyd-flo-fla;FF,AFG,glide-events
+glide-event-FL-2024-000041-PAK,2024-03-31T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
+glide-event-FL-2024-000038-AFG,2024-03-20T00:00:00Z,,nat-hyd-flo-flo;FL,AFG,glide-events
+glide-event-FL-2024-000020-PAK,2024-03-06T00:00:00Z,,nat-hyd-flo-flo;FL,PAK,glide-events
