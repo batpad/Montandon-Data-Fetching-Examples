@@ -5,12 +5,10 @@ emdat-impact-2000-0830-POL-total_deaths,emdat-impacts,2000-12-01T00:00:00Z,Cold 
 emdat-impact-2000-0807-MDA-total_dam,emdat-impacts,2000-11-26T00:00:00Z,Blizzard/Winter storm in Republic of Moldova - total_dam,MDA,nat-met-sto-bli,total_affected,cost,31600.0,count,primary
 emdat-impact-2000-0807-MDA-total_affected,emdat-impacts,2000-11-26T00:00:00Z,Blizzard/Winter storm in Republic of Moldova - total_affected,MDA,nat-met-sto-bli,people,affected_total,2600000.0,count,primary
 emdat-impact-2000-0807-MDA-no_affected,emdat-impacts,2000-11-26T00:00:00Z,Blizzard/Winter storm in Republic of Moldova - no_affected,MDA,nat-met-sto-bli,people,affected_total,2600000.0,count,primary
-emdat-impact-2000-0676-KGZ-total_deaths,emdat-impacts,2000-10-16T00:00:00Z,Cold wave in Kyrgyzstan - total_deaths,KGZ,nat-met-ext-col,people,death,11.0,count,primary
 emdat-impact-2000-0705-RUS-total_deaths,emdat-impacts,2000-10-10T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,232.0,count,primary
 emdat-impact-2000-0705-RUS-total_affected,emdat-impacts,2000-10-10T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,94.0,count,primary
 emdat-impact-2000-0705-RUS-no_injured,emdat-impacts,2000-10-10T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,94.0,count,primary
 emdat-impact-2000-0337-UKR-total_dam,emdat-impacts,2000-05-01T00:00:00Z,Cold wave in Ukraine - total_dam,UKR,nat-met-ext-col,total_affected,cost,85000.0,count,primary
-emdat-impact-2000-0269-BLR-total_dam,emdat-impacts,2000-05-01T00:00:00Z,Cold wave in Belarus - total_dam,BLR,nat-met-ext-col,total_affected,cost,30300.0,count,primary
 emdat-impact-2000-0165-RUS-total_deaths,emdat-impacts,2000-02-01T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,13.0,count,primary
 emdat-impact-2000-0165-RUS-total_affected,emdat-impacts,2000-02-01T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,252.0,count,primary
 emdat-impact-2000-0165-RUS-no_injured,emdat-impacts,2000-02-01T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,252.0,count,primary
@@ -24,11 +22,9 @@ desinventar-impact-2817-deaths,desinventar-impacts,2001-12-19T00:00:00Z,COLD WAV
 desinventar-impact-2812-injured,desinventar-impacts,2001-11-24T00:00:00Z,FROST in Qafe Thore on 2001-11-24 00:00:00+00:00 - injured,ALB,"MH0043, nat-met-ext-sev",people,injured,1.0,count,primary
 desinventar-impact-2812-deaths,desinventar-impacts,2001-11-24T00:00:00Z,FROST in Qafe Thore on 2001-11-24 00:00:00+00:00 - deaths,ALB,"MH0043, nat-met-ext-sev",people,death,1.0,count,primary
 emdat-impact-2001-0714-LTU-total_deaths,emdat-impacts,2001-12-01T00:00:00Z,Cold wave in Lithuania - total_deaths,LTU,nat-met-ext-col,people,death,20.0,count,primary
-emdat-impact-2001-0692-MKD-total_deaths,emdat-impacts,2001-12-01T00:00:00Z,Cold wave in North Macedonia - total_deaths,MKD,nat-met-ext-col,people,death,15.0,count,primary
 emdat-impact-2001-0686-HUN-total_deaths,emdat-impacts,2001-12-01T00:00:00Z,Cold wave in Hungary - total_deaths,HUN,nat-met-ext-col,people,death,81.0,count,primary
 emdat-impact-2001-0663-ROU-total_deaths,emdat-impacts,2001-12-01T00:00:00Z,Cold wave in Romania - total_deaths,ROU,nat-met-ext-col,people,death,10.0,count,primary
 emdat-impact-2001-0661-POL-total_deaths,emdat-impacts,2001-10-10T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,270.0,count,primary
-emdat-impact-2001-0713-LVA-total_deaths,emdat-impacts,2001-10-01T00:00:00Z,Cold wave in Latvia - total_deaths,LVA,nat-met-ext-col,people,death,21.0,count,primary
 emdat-impact-2001-0579-RUS-total_deaths,emdat-impacts,2001-10-01T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,332.0,count,primary
 emdat-impact-2001-0579-RUS-total_affected,emdat-impacts,2001-10-01T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,174.0,count,primary
 emdat-impact-2001-0579-RUS-no_injured,emdat-impacts,2001-10-01T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,174.0,count,primary
@@ -56,7 +52,6 @@ emdat-impact-2002-0010-ALB-total_deaths,emdat-impacts,2002-01-08T00:00:00Z,Blizz
 emdat-impact-2002-0010-ALB-total_affected,emdat-impacts,2002-01-08T00:00:00Z,Blizzard/Winter storm in Albania - total_affected,ALB,nat-met-sto-bli,people,affected_total,125000.0,count,primary
 emdat-impact-2002-0010-ALB-no_affected,emdat-impacts,2002-01-08T00:00:00Z,Blizzard/Winter storm in Albania - no_affected,ALB,nat-met-sto-bli,people,affected_total,125000.0,count,primary
 emdat-impact-2001-0661-POL-total_deaths,emdat-impacts,2001-10-10T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,270.0,count,primary
-emdat-impact-2003-0022-LVA-total_deaths,emdat-impacts,2003-01-01T00:00:00Z,Cold wave in Latvia - total_deaths,LVA,nat-met-ext-col,people,death,15.0,count,primary
 emdat-impact-2002-0754-POL-total_deaths,emdat-impacts,2002-10-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,183.0,count,primary
 desinventar-impact-580-injured,desinventar-impacts,2004-01-04T00:00:00Z,"FROST in fhsati LLang, komuna Stebleve on 2004-01-04 00:00:00+00:00 - injured",ALB,"MH0043, nat-met-ext-sev",people,injured,7.0,count,primary
 emdat-impact-2005-0713-HUN-total_deaths,emdat-impacts,2005-12-27T00:00:00Z,Severe winter conditions in Hungary - total_deaths,HUN,nat-met-ext-sev,people,death,48.0,count,primary
@@ -66,9 +61,6 @@ emdat-impact-2005-0045-ALB-total_deaths,emdat-impacts,2005-01-23T00:00:00Z,Blizz
 emdat-impact-2005-0045-ALB-total_affected,emdat-impacts,2005-01-23T00:00:00Z,Blizzard/Winter storm in Albania - total_affected,ALB,nat-met-sto-bli,people,affected_total,400000.0,count,primary
 emdat-impact-2005-0045-ALB-no_affected,emdat-impacts,2005-01-23T00:00:00Z,Blizzard/Winter storm in Albania - no_affected,ALB,nat-met-sto-bli,people,affected_total,400000.0,count,primary
 emdat-impact-2005-0045-ROU-total_deaths,emdat-impacts,2005-01-01T00:00:00Z,Blizzard/Winter storm in Romania - total_deaths,ROU,nat-met-sto-bli,people,death,3.0,count,primary
-emdat-impact-2005-0045-MKD-total_deaths,emdat-impacts,2005-01-01T00:00:00Z,Blizzard/Winter storm in North Macedonia - total_deaths,MKD,nat-met-sto-bli,people,death,1.0,count,primary
-emdat-impact-2005-0045-MKD-total_affected,emdat-impacts,2005-01-01T00:00:00Z,Blizzard/Winter storm in North Macedonia - total_affected,MKD,nat-met-sto-bli,people,affected_total,3.0,count,primary
-emdat-impact-2005-0045-MKD-no_injured,emdat-impacts,2005-01-01T00:00:00Z,Blizzard/Winter storm in North Macedonia - no_injured,MKD,nat-met-sto-bli,people,injured,3.0,count,primary
 emdat-impact-2005-0045-HUN-total_deaths,emdat-impacts,2005-01-01T00:00:00Z,Blizzard/Winter storm in Hungary - total_deaths,HUN,nat-met-sto-bli,people,death,4.0,count,primary
 emdat-impact-2005-0713-ROU-total_deaths,emdat-impacts,2006-01-20T00:00:00Z,Severe winter conditions in Romania - total_deaths,ROU,nat-met-ext-sev,people,death,68.0,count,primary
 emdat-impact-2005-0713-MDA-total_deaths,emdat-impacts,2006-01-20T00:00:00Z,Severe winter conditions in Republic of Moldova - total_deaths,MDA,nat-met-ext-sev,people,death,13.0,count,primary
@@ -80,11 +72,6 @@ emdat-impact-2005-0713-RUS-total_deaths,emdat-impacts,2006-01-01T00:00:00Z,Sever
 emdat-impact-2005-0713-RUS-total_dam,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Russian Federation - total_dam,RUS,nat-met-ext-sev,total_affected,cost,1000000.0,count,primary
 emdat-impact-2005-0713-RUS-total_affected,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Russian Federation - total_affected,RUS,nat-met-ext-sev,people,affected_total,14.0,count,primary
 emdat-impact-2005-0713-RUS-no_injured,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Russian Federation - no_injured,RUS,nat-met-ext-sev,people,injured,14.0,count,primary
-emdat-impact-2005-0713-LVA-total_deaths,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Latvia - total_deaths,LVA,nat-met-ext-sev,people,death,40.0,count,primary
-emdat-impact-2005-0713-EST-total_deaths,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Estonia - total_deaths,EST,nat-met-ext-sev,people,death,3.0,count,primary
-emdat-impact-2005-0713-BLR-total_deaths,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Belarus - total_deaths,BLR,nat-met-ext-sev,people,death,5.0,count,primary
-emdat-impact-2005-0713-BLR-total_affected,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Belarus - total_affected,BLR,nat-met-ext-sev,people,affected_total,1820.0,count,primary
-emdat-impact-2005-0713-BLR-no_injured,emdat-impacts,2006-01-01T00:00:00Z,Severe winter conditions in Belarus - no_injured,BLR,nat-met-ext-sev,people,injured,1820.0,count,primary
 emdat-impact-2005-0713-HUN-total_deaths,emdat-impacts,2005-12-27T00:00:00Z,Severe winter conditions in Hungary - total_deaths,HUN,nat-met-ext-sev,people,death,48.0,count,primary
 emdat-impact-2005-0713-POL-total_deaths,emdat-impacts,2005-10-01T00:00:00Z,Severe winter conditions in Poland - total_deaths,POL,nat-met-ext-sev,people,death,191.0,count,primary
 emdat-impact-2007-0673-ROU-total_deaths,emdat-impacts,2007-12-10T00:00:00Z,Cold wave in Romania - total_deaths,ROU,nat-met-ext-col,people,death,38.0,count,primary
@@ -114,22 +101,17 @@ emdat-impact-2010-0615-RUS-total_deaths,emdat-impacts,2010-12-03T00:00:00Z,Cold 
 emdat-impact-2010-0615-RUS-total_affected,emdat-impacts,2010-12-03T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,11.0,count,primary
 emdat-impact-2010-0615-RUS-no_injured,emdat-impacts,2010-12-03T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,11.0,count,primary
 emdat-impact-2010-0615-LTU-total_deaths,emdat-impacts,2010-11-27T00:00:00Z,Cold wave in Lithuania - total_deaths,LTU,nat-met-ext-col,people,death,5.0,count,primary
-emdat-impact-2010-0615-SVK-total_deaths,emdat-impacts,2010-11-01T00:00:00Z,Cold wave in Slovakia - total_deaths,SVK,nat-met-ext-col,people,death,122.0,count,primary
 emdat-impact-2010-0615-POL-total_deaths,emdat-impacts,2010-11-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,200.0,count,primary
 emdat-impact-2010-0050-SRB-total_deaths,emdat-impacts,2010-01-28T00:00:00Z,Cold wave in Serbia - total_deaths,SRB,nat-met-ext-col,people,death,3.0,count,primary
 emdat-impact-2010-0050-ROU-total_deaths,emdat-impacts,2010-01-22T00:00:00Z,Cold wave in Romania - total_deaths,ROU,nat-met-ext-col,people,death,52.0,count,primary
 emdat-impact-2010-0050-RUS-total_deaths,emdat-impacts,2010-01-01T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,13.0,count,primary
 emdat-impact-2009-0571-POL-total_deaths,emdat-impacts,2009-11-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,298.0,count,primary
 emdat-impact-2011-0628-POL-total_deaths,emdat-impacts,2011-11-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,26.0,count,primary
-emdat-impact-2010-0615-SVK-total_deaths,emdat-impacts,2010-11-01T00:00:00Z,Cold wave in Slovakia - total_deaths,SVK,nat-met-ext-col,people,death,122.0,count,primary
 emdat-impact-2010-0615-POL-total_deaths,emdat-impacts,2010-11-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,200.0,count,primary
 desinventar-impact-387-lost_cattle,desinventar-impacts,2012-02-20T00:00:00Z,COLD WAVE in None on 2012-02-20 00:00:00+00:00 - lost_cattle,ALB,"MH0049, nat-met-ext-col",cattle,missing,14.0,count,primary
 desinventar-impact-386-lost_cattle,desinventar-impacts,2012-02-20T00:00:00Z,COLD WAVE in None on 2012-02-20 00:00:00+00:00 - lost_cattle,ALB,"MH0049, nat-met-ext-col",cattle,missing,276.0,count,primary
 desinventar-impact-385-lost_cattle,desinventar-impacts,2012-02-20T00:00:00Z,COLD WAVE in None on 2012-02-20 00:00:00+00:00 - lost_cattle,ALB,"MH0049, nat-met-ext-col",cattle,missing,418.0,count,primary
 desinventar-impact-384-lost_cattle,desinventar-impacts,2012-02-20T00:00:00Z,COLD WAVE in None on 2012-02-20 00:00:00+00:00 - lost_cattle,ALB,"MH0049, nat-met-ext-col",cattle,missing,841.0,count,primary
-emdat-impact-2012-0609-KGZ-total_deaths,emdat-impacts,2012-12-18T00:00:00Z,Cold wave in Kyrgyzstan - total_deaths,KGZ,nat-met-ext-col,people,death,16.0,count,primary
-emdat-impact-2012-0609-KGZ-total_affected,emdat-impacts,2012-12-18T00:00:00Z,Cold wave in Kyrgyzstan - total_affected,KGZ,nat-met-ext-col,people,affected_total,50.0,count,primary
-emdat-impact-2012-0609-KGZ-no_injured,emdat-impacts,2012-12-18T00:00:00Z,Cold wave in Kyrgyzstan - no_injured,KGZ,nat-met-ext-col,people,injured,50.0,count,primary
 emdat-impact-2012-0532-KAZ-total_affected,emdat-impacts,2012-12-18T00:00:00Z,Severe winter conditions in Kazakhstan - total_affected,KAZ,nat-met-ext-sev,people,affected_total,5000.0,count,primary
 emdat-impact-2012-0532-KAZ-no_affected,emdat-impacts,2012-12-18T00:00:00Z,Severe winter conditions in Kazakhstan - no_affected,KAZ,nat-met-ext-sev,people,affected_total,5000.0,count,primary
 emdat-impact-2012-0485-RUS-total_deaths,emdat-impacts,2012-12-14T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,170.0,count,primary
@@ -146,9 +128,7 @@ emdat-impact-2012-0019-BIH-total_deaths,emdat-impacts,2012-02-02T00:00:00Z,Cold 
 emdat-impact-2012-0019-BIH-total_affected,emdat-impacts,2012-02-02T00:00:00Z,Cold wave in Bosnia and Herzegovina - total_affected,BIH,nat-met-ext-col,people,affected_total,10347.0,count,primary
 emdat-impact-2012-0019-BIH-no_affected,emdat-impacts,2012-02-02T00:00:00Z,Cold wave in Bosnia and Herzegovina - no_affected,BIH,nat-met-ext-col,people,affected_total,10347.0,count,primary
 emdat-impact-2012-0050-TJK-total_deaths,emdat-impacts,2012-02-01T00:00:00Z,Severe winter conditions in Tajikistan - total_deaths,TJK,nat-met-ext-sev,people,death,1.0,count,primary
-emdat-impact-2012-0019-LVA-total_deaths,emdat-impacts,2012-02-01T00:00:00Z,Cold wave in Latvia - total_deaths,LVA,nat-met-ext-col,people,death,10.0,count,primary
 emdat-impact-2012-0019-HUN-total_deaths,emdat-impacts,2012-02-01T00:00:00Z,Cold wave in Hungary - total_deaths,HUN,nat-met-ext-col,people,death,16.0,count,primary
-emdat-impact-2012-0019-EST-total_deaths,emdat-impacts,2012-02-01T00:00:00Z,Cold wave in Estonia - total_deaths,EST,nat-met-ext-col,people,death,1.0,count,primary
 emdat-impact-2012-0019-MDA-total_deaths,emdat-impacts,2012-01-30T00:00:00Z,Cold wave in Republic of Moldova - total_deaths,MDA,nat-met-ext-col,people,death,10.0,count,primary
 emdat-impact-2012-0019-MDA-total_affected,emdat-impacts,2012-01-30T00:00:00Z,Cold wave in Republic of Moldova - total_affected,MDA,nat-met-ext-col,people,affected_total,7374.0,count,primary
 emdat-impact-2012-0019-MDA-no_affected,emdat-impacts,2012-01-30T00:00:00Z,Cold wave in Republic of Moldova - no_affected,MDA,nat-met-ext-col,people,affected_total,7374.0,count,primary
@@ -167,15 +147,8 @@ emdat-impact-2012-0019-ROU-no_affected,emdat-impacts,2012-01-23T00:00:00Z,Cold w
 emdat-impact-2012-0012-SRB-total_deaths,emdat-impacts,2012-01-06T00:00:00Z,Severe winter conditions in Serbia - total_deaths,SRB,nat-met-ext-sev,people,death,9.0,count,primary
 emdat-impact-2012-0012-SRB-total_affected,emdat-impacts,2012-01-06T00:00:00Z,Severe winter conditions in Serbia - total_affected,SRB,nat-met-ext-sev,people,affected_total,18234.0,count,primary
 emdat-impact-2012-0012-SRB-no_affected,emdat-impacts,2012-01-06T00:00:00Z,Severe winter conditions in Serbia - no_affected,SRB,nat-met-ext-sev,people,affected_total,18234.0,count,primary
-emdat-impact-2012-0019-SVK-total_deaths,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in Slovakia - total_deaths,SVK,nat-met-ext-col,people,death,5.0,count,primary
 emdat-impact-2012-0019-RUS-total_deaths,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,64.0,count,primary
-emdat-impact-2012-0019-MKD-total_deaths,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in North Macedonia - total_deaths,MKD,nat-met-ext-col,people,death,1.0,count,primary
-emdat-impact-2012-0019-MKD-total_affected,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in North Macedonia - total_affected,MKD,nat-met-ext-col,people,affected_total,5100.0,count,primary
-emdat-impact-2012-0019-MKD-no_affected,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in North Macedonia - no_affected,MKD,nat-met-ext-col,people,affected_total,5100.0,count,primary
 emdat-impact-2012-0019-LTU-total_deaths,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in Lithuania - total_deaths,LTU,nat-met-ext-col,people,death,24.0,count,primary
-emdat-impact-2012-0019-BLR-total_affected,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in Belarus - total_affected,BLR,nat-met-ext-col,people,affected_total,130.0,count,primary
-emdat-impact-2012-0019-BLR-no_injured,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in Belarus - no_injured,BLR,nat-met-ext-col,people,injured,30.0,count,primary
-emdat-impact-2012-0019-BLR-no_affected,emdat-impacts,2012-01-01T00:00:00Z,Cold wave in Belarus - no_affected,BLR,nat-met-ext-col,people,affected_total,100.0,count,primary
 emdat-impact-2012-0012-ALB-total_deaths,emdat-impacts,2012-01-01T00:00:00Z,Severe winter conditions in Albania - total_deaths,ALB,nat-met-ext-sev,people,death,5.0,count,primary
 emdat-impact-2012-0012-ALB-total_affected,emdat-impacts,2012-01-01T00:00:00Z,Severe winter conditions in Albania - total_affected,ALB,nat-met-ext-sev,people,affected_total,230000.0,count,primary
 emdat-impact-2012-0012-ALB-no_affected,emdat-impacts,2012-01-01T00:00:00Z,Severe winter conditions in Albania - no_affected,ALB,nat-met-ext-sev,people,affected_total,230000.0,count,primary
@@ -184,50 +157,22 @@ emdat-impact-2013-0501-HUN-no_affected,emdat-impacts,2013-03-15T00:00:00Z,Blizza
 emdat-impact-2013-0165-POL-total_deaths,emdat-impacts,2013-03-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,25.0,count,primary
 emdat-impact-2013-0027-TJK-total_affected,emdat-impacts,2013-01-01T00:00:00Z,Severe winter conditions in Tajikistan - total_affected,TJK,nat-met-ext-sev,people,affected_total,2500.0,count,primary
 emdat-impact-2013-0027-TJK-no_affected,emdat-impacts,2013-01-01T00:00:00Z,Severe winter conditions in Tajikistan - no_affected,TJK,nat-met-ext-sev,people,affected_total,2500.0,count,primary
-emdat-impact-2013-0009-BLR-total_deaths,emdat-impacts,2013-01-01T00:00:00Z,Severe winter conditions in Belarus - total_deaths,BLR,nat-met-ext-sev,people,death,4.0,count,primary
-emdat-impact-2013-0009-BLR-total_affected,emdat-impacts,2013-01-01T00:00:00Z,Severe winter conditions in Belarus - total_affected,BLR,nat-met-ext-sev,people,affected_total,11325.0,count,primary
-emdat-impact-2013-0009-BLR-no_injured,emdat-impacts,2013-01-01T00:00:00Z,Severe winter conditions in Belarus - no_injured,BLR,nat-met-ext-sev,people,injured,1325.0,count,primary
-emdat-impact-2013-0009-BLR-no_affected,emdat-impacts,2013-01-01T00:00:00Z,Severe winter conditions in Belarus - no_affected,BLR,nat-met-ext-sev,people,affected_total,10000.0,count,primary
 emdat-impact-2012-0532-KAZ-total_affected,emdat-impacts,2012-12-18T00:00:00Z,Severe winter conditions in Kazakhstan - total_affected,KAZ,nat-met-ext-sev,people,affected_total,5000.0,count,primary
 emdat-impact-2012-0532-KAZ-no_affected,emdat-impacts,2012-12-18T00:00:00Z,Severe winter conditions in Kazakhstan - no_affected,KAZ,nat-met-ext-sev,people,affected_total,5000.0,count,primary
-emdat-impact-2014-0496-MKD-total_affected,emdat-impacts,2014-12-28T00:00:00Z,Severe winter conditions in North Macedonia - total_affected,MKD,nat-met-ext-sev,people,affected_total,8800.0,count,primary
-emdat-impact-2014-0496-MKD-no_affected,emdat-impacts,2014-12-28T00:00:00Z,Severe winter conditions in North Macedonia - no_affected,MKD,nat-met-ext-sev,people,affected_total,8800.0,count,primary
 emdat-impact-2014-0080-SRB-total_affected,emdat-impacts,2014-01-28T00:00:00Z,Severe winter conditions in Serbia - total_affected,SRB,nat-met-ext-sev,people,affected_total,3000.0,count,primary
 emdat-impact-2014-0080-SRB-no_affected,emdat-impacts,2014-01-28T00:00:00Z,Severe winter conditions in Serbia - no_affected,SRB,nat-met-ext-sev,people,affected_total,3000.0,count,primary
 emdat-impact-2014-0030-ROU-total_deaths,emdat-impacts,2014-01-26T00:00:00Z,Cold wave in Romania - total_deaths,ROU,nat-met-ext-col,people,death,13.0,count,primary
 emdat-impact-2014-0030-POL-total_deaths,emdat-impacts,2014-01-23T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,78.0,count,primary
-emdat-impact-2014-0029-BLR-total_deaths,emdat-impacts,2014-01-18T00:00:00Z,Severe winter conditions in Belarus - total_deaths,BLR,nat-met-ext-sev,people,death,2.0,count,primary
-emdat-impact-2014-0029-BLR-total_affected,emdat-impacts,2014-01-18T00:00:00Z,Severe winter conditions in Belarus - total_affected,BLR,nat-met-ext-sev,people,affected_total,31500.0,count,primary
-emdat-impact-2014-0029-BLR-no_injured,emdat-impacts,2014-01-18T00:00:00Z,Severe winter conditions in Belarus - no_injured,BLR,nat-met-ext-sev,people,injured,1500.0,count,primary
-emdat-impact-2014-0029-BLR-no_affected,emdat-impacts,2014-01-18T00:00:00Z,Severe winter conditions in Belarus - no_affected,BLR,nat-met-ext-sev,people,affected_total,30000.0,count,primary
 emdat-impact-2015-0577-POL-total_deaths,emdat-impacts,2015-01-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,77.0,count,primary
-emdat-impact-2014-0496-MKD-total_affected,emdat-impacts,2014-12-28T00:00:00Z,Severe winter conditions in North Macedonia - total_affected,MKD,nat-met-ext-sev,people,affected_total,8800.0,count,primary
-emdat-impact-2014-0496-MKD-no_affected,emdat-impacts,2014-12-28T00:00:00Z,Severe winter conditions in North Macedonia - no_affected,MKD,nat-met-ext-sev,people,affected_total,8800.0,count,primary
 emdat-impact-2016-0001-POL-total_deaths,emdat-impacts,2016-01-02T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,21.0,count,primary
 emdat-impact-2016-0001-UKR-total_deaths,emdat-impacts,2016-01-01T00:00:00Z,Cold wave in Ukraine - total_deaths,UKR,nat-met-ext-col,people,death,37.0,count,primary
 emdat-impact-2017-0010-SRB-total_deaths,emdat-impacts,2017-01-20T00:00:00Z,Severe winter conditions in Serbia - total_deaths,SRB,nat-met-ext-sev,people,death,6.0,count,primary
 emdat-impact-2017-0010-ALB-total_deaths,emdat-impacts,2017-01-20T00:00:00Z,Severe winter conditions in Albania - total_deaths,ALB,nat-met-ext-sev,people,death,6.0,count,primary
-emdat-impact-2017-0010-MKD-total_deaths,emdat-impacts,2017-01-05T00:00:00Z,Severe winter conditions in North Macedonia - total_deaths,MKD,nat-met-ext-sev,people,death,3.0,count,primary
-emdat-impact-2017-0010-MKD-total_affected,emdat-impacts,2017-01-05T00:00:00Z,Severe winter conditions in North Macedonia - total_affected,MKD,nat-met-ext-sev,people,affected_total,2220.0,count,primary
-emdat-impact-2017-0010-MKD-no_affected,emdat-impacts,2017-01-05T00:00:00Z,Severe winter conditions in North Macedonia - no_affected,MKD,nat-met-ext-sev,people,affected_total,2220.0,count,primary
-emdat-impact-2017-0010-BLR-total_deaths,emdat-impacts,2017-01-05T00:00:00Z,Severe winter conditions in Belarus - total_deaths,BLR,nat-met-ext-sev,people,death,43.0,count,primary
-emdat-impact-2017-0010-BLR-total_affected,emdat-impacts,2017-01-05T00:00:00Z,Severe winter conditions in Belarus - total_affected,BLR,nat-met-ext-sev,people,affected_total,50539.0,count,primary
-emdat-impact-2017-0010-BLR-no_injured,emdat-impacts,2017-01-05T00:00:00Z,Severe winter conditions in Belarus - no_injured,BLR,nat-met-ext-sev,people,injured,539.0,count,primary
-emdat-impact-2017-0010-BLR-no_affected,emdat-impacts,2017-01-05T00:00:00Z,Severe winter conditions in Belarus - no_affected,BLR,nat-met-ext-sev,people,affected_total,50000.0,count,primary
 emdat-impact-2017-0010-UKR-total_deaths,emdat-impacts,2017-01-01T00:00:00Z,Severe winter conditions in Ukraine - total_deaths,UKR,nat-met-ext-sev,people,death,37.0,count,primary
 emdat-impact-2018-0490-HUN-total_deaths,emdat-impacts,2018-12-01T00:00:00Z,Cold wave in Hungary - total_deaths,HUN,nat-met-ext-col,people,death,179.0,count,primary
 emdat-impact-2018-0061-ROU-total_deaths,emdat-impacts,2018-02-23T00:00:00Z,Cold wave in Romania - total_deaths,ROU,nat-met-ext-col,people,death,2.0,count,primary
 emdat-impact-2018-0061-POL-total_deaths,emdat-impacts,2018-02-23T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,9.0,count,primary
 emdat-impact-2018-0061-LTU-total_deaths,emdat-impacts,2018-02-23T00:00:00Z,Cold wave in Lithuania - total_deaths,LTU,nat-met-ext-col,people,death,5.0,count,primary
-emdat-impact-2018-0061-EST-total_deaths,emdat-impacts,2018-02-01T00:00:00Z,Cold wave in Estonia - total_deaths,EST,nat-met-ext-col,people,death,7.0,count,primary
 emdat-impact-2019-0055-MDA-total_affected,emdat-impacts,2019-01-11T00:00:00Z,Severe winter conditions in Republic of Moldova - total_affected,MDA,nat-met-ext-sev,people,affected_total,5460.0,count,primary
 emdat-impact-2019-0055-MDA-no_affected,emdat-impacts,2019-01-11T00:00:00Z,Severe winter conditions in Republic of Moldova - no_affected,MDA,nat-met-ext-sev,people,affected_total,5460.0,count,primary
 emdat-impact-2018-0490-HUN-total_deaths,emdat-impacts,2018-12-01T00:00:00Z,Cold wave in Hungary - total_deaths,HUN,nat-met-ext-col,people,death,179.0,count,primary
-desinventar-impact-16003-deaths,desinventar-impacts,2023-05-08T00:00:00Z,OTHER in Në kanionet e lumit Osum on 2023-05-08 00:00:00+00:00 - deaths,ALB,OT,people,death,1.0,count,primary
-emdat-impact-2023-0804-UKR-total_deaths,emdat-impacts,2023-11-26T00:00:00Z,Storm (Blizzard/Winter storm) in Ukraine of November 2023 - total_deaths,UKR,nat-met-sto-bli,people,death,12.0,count,primary
-emdat-impact-2023-0804-UKR-total_affected,emdat-impacts,2023-11-26T00:00:00Z,Storm (Blizzard/Winter storm) in Ukraine of November 2023 - total_affected,UKR,nat-met-sto-bli,people,affected_total,23.0,count,primary
-emdat-impact-2023-0804-UKR-no_injured,emdat-impacts,2023-11-26T00:00:00Z,Storm (Blizzard/Winter storm) in Ukraine of November 2023 - no_injured,UKR,nat-met-sto-bli,people,injured,23.0,count,primary
-emdat-impact-2023-0804-RUS-total_deaths,emdat-impacts,2023-11-26T00:00:00Z,Storm (Blizzard/Winter storm) in Russian Federation of November 2023 - total_deaths,RUS,nat-met-sto-bli,people,death,2.0,count,primary
-emdat-impact-2023-0804-MDA-total_deaths,emdat-impacts,2023-11-26T00:00:00Z,Storm (Blizzard/Winter storm) in Republic of Moldova of November 2023 - total_deaths,MDA,nat-met-sto-bli,people,death,4.0,count,primary
-emdat-impact-2023-0804-MDA-total_affected,emdat-impacts,2023-11-26T00:00:00Z,Storm (Blizzard/Winter storm) in Republic of Moldova of November 2023 - total_affected,MDA,nat-met-sto-bli,people,affected_total,10.0,count,primary
-emdat-impact-2023-0804-MDA-no_injured,emdat-impacts,2023-11-26T00:00:00Z,Storm (Blizzard/Winter storm) in Republic of Moldova of November 2023 - no_injured,MDA,nat-met-sto-bli,people,injured,10.0,count,primary
