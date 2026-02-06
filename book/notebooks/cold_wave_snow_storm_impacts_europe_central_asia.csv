@@ -1,0 +1,41 @@
+id,collection,datetime,title,country_codes,hazard_codes,impact_category,impact_type,impact_value,impact_unit,estimate_type
+desinventar-impact-2920-injured,desinventar-impacts,2000-01-27T00:00:00Z,FROST in None on 2000-01-27 00:00:00+00:00 - injured,ALB,"MH0043, nat-met-ext-sev",people,injured,22.0,count,primary
+desinventar-impact-2902-injured,desinventar-impacts,2000-01-04T00:00:00Z,FROST in None on 2000-01-04 00:00:00+00:00 - injured,ALB,"MH0043, nat-met-ext-sev",people,injured,40.0,count,primary
+emdat-impact-2000-0830-POL-total_deaths,emdat-impacts,2000-12-01T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,84.0,count,primary
+emdat-impact-2000-0807-MDA-total_dam,emdat-impacts,2000-11-26T00:00:00Z,Blizzard/Winter storm in Republic of Moldova - total_dam,MDA,nat-met-sto-bli,total_affected,cost,31600.0,count,primary
+emdat-impact-2000-0807-MDA-total_affected,emdat-impacts,2000-11-26T00:00:00Z,Blizzard/Winter storm in Republic of Moldova - total_affected,MDA,nat-met-sto-bli,people,affected_total,2600000.0,count,primary
+emdat-impact-2000-0807-MDA-no_affected,emdat-impacts,2000-11-26T00:00:00Z,Blizzard/Winter storm in Republic of Moldova - no_affected,MDA,nat-met-sto-bli,people,affected_total,2600000.0,count,primary
+emdat-impact-2000-0705-RUS-total_deaths,emdat-impacts,2000-10-10T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,232.0,count,primary
+emdat-impact-2000-0705-RUS-total_affected,emdat-impacts,2000-10-10T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,94.0,count,primary
+emdat-impact-2000-0705-RUS-no_injured,emdat-impacts,2000-10-10T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,94.0,count,primary
+emdat-impact-2000-0337-UKR-total_dam,emdat-impacts,2000-05-01T00:00:00Z,Cold wave in Ukraine - total_dam,UKR,nat-met-ext-col,total_affected,cost,85000.0,count,primary
+emdat-impact-2000-0165-RUS-total_deaths,emdat-impacts,2000-02-01T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,13.0,count,primary
+emdat-impact-2000-0165-RUS-total_affected,emdat-impacts,2000-02-01T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,252.0,count,primary
+emdat-impact-2000-0165-RUS-no_injured,emdat-impacts,2000-02-01T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,252.0,count,primary
+emdat-impact-2000-0028-ROU-total_deaths,emdat-impacts,2000-01-01T00:00:00Z,Blizzard/Winter storm in Romania - total_deaths,ROU,nat-met-sto-bli,people,death,14.0,count,primary
+emdat-impact-2000-0028-ROU-total_affected,emdat-impacts,2000-01-01T00:00:00Z,Blizzard/Winter storm in Romania - total_affected,ROU,nat-met-sto-bli,people,affected_total,300.0,count,primary
+emdat-impact-2000-0028-ROU-no_homeless,emdat-impacts,2000-01-01T00:00:00Z,Blizzard/Winter storm in Romania - no_homeless,ROU,nat-met-sto-bli,people,displaced_total,300.0,count,primary
+desinventar-impact-2704-deaths,desinventar-impacts,2001-12-20T00:00:00Z,COLD WAVE in None on 2001-12-20 00:00:00+00:00 - deaths,ALB,"MH0049, nat-met-ext-col",people,death,6.0,count,primary
+desinventar-impact-2702-deaths,desinventar-impacts,2001-12-20T00:00:00Z,COLD WAVE in None on 2001-12-20 00:00:00+00:00 - deaths,ALB,"MH0049, nat-met-ext-col",people,death,10.0,count,primary
+desinventar-impact-2818-injured,desinventar-impacts,2001-12-19T00:00:00Z,FROST in None on 2001-12-19 00:00:00+00:00 - injured,ALB,"MH0043, nat-met-ext-sev",people,injured,6.0,count,primary
+desinventar-impact-2817-deaths,desinventar-impacts,2001-12-19T00:00:00Z,COLD WAVE in fshati Ferme-Clirim on 2001-12-19 00:00:00+00:00 - deaths,ALB,"MH0049, nat-met-ext-col",people,death,1.0,count,primary
+desinventar-impact-2812-injured,desinventar-impacts,2001-11-24T00:00:00Z,FROST in Qafe Thore on 2001-11-24 00:00:00+00:00 - injured,ALB,"MH0043, nat-met-ext-sev",people,injured,1.0,count,primary
+desinventar-impact-2812-deaths,desinventar-impacts,2001-11-24T00:00:00Z,FROST in Qafe Thore on 2001-11-24 00:00:00+00:00 - deaths,ALB,"MH0043, nat-met-ext-sev",people,death,1.0,count,primary
+emdat-impact-2001-0714-LTU-total_deaths,emdat-impacts,2001-12-01T00:00:00Z,Cold wave in Lithuania - total_deaths,LTU,nat-met-ext-col,people,death,20.0,count,primary
+emdat-impact-2001-0686-HUN-total_deaths,emdat-impacts,2001-12-01T00:00:00Z,Cold wave in Hungary - total_deaths,HUN,nat-met-ext-col,people,death,81.0,count,primary
+emdat-impact-2001-0663-ROU-total_deaths,emdat-impacts,2001-12-01T00:00:00Z,Cold wave in Romania - total_deaths,ROU,nat-met-ext-col,people,death,10.0,count,primary
+emdat-impact-2001-0661-POL-total_deaths,emdat-impacts,2001-10-10T00:00:00Z,Cold wave in Poland - total_deaths,POL,nat-met-ext-col,people,death,270.0,count,primary
+emdat-impact-2001-0579-RUS-total_deaths,emdat-impacts,2001-10-01T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,332.0,count,primary
+emdat-impact-2001-0579-RUS-total_affected,emdat-impacts,2001-10-01T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,174.0,count,primary
+emdat-impact-2001-0579-RUS-no_injured,emdat-impacts,2001-10-01T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,174.0,count,primary
+emdat-impact-2001-0257-RUS-total_dam,emdat-impacts,2001-05-15T00:00:00Z,Blizzard/Winter storm in Russian Federation - total_dam,RUS,nat-met-sto-bli,total_affected,cost,17200.0,count,primary
+emdat-impact-2001-0257-RUS-total_affected,emdat-impacts,2001-05-15T00:00:00Z,Blizzard/Winter storm in Russian Federation - total_affected,RUS,nat-met-sto-bli,people,affected_total,12428.0,count,primary
+emdat-impact-2001-0257-RUS-no_injured,emdat-impacts,2001-05-15T00:00:00Z,Blizzard/Winter storm in Russian Federation - no_injured,RUS,nat-met-sto-bli,people,injured,28.0,count,primary
+emdat-impact-2001-0257-RUS-no_homeless,emdat-impacts,2001-05-15T00:00:00Z,Blizzard/Winter storm in Russian Federation - no_homeless,RUS,nat-met-sto-bli,people,displaced_total,400.0,count,primary
+emdat-impact-2001-0257-RUS-no_affected,emdat-impacts,2001-05-15T00:00:00Z,Blizzard/Winter storm in Russian Federation - no_affected,RUS,nat-met-sto-bli,people,affected_total,12000.0,count,primary
+emdat-impact-2001-0264-RUS-total_deaths,emdat-impacts,2001-03-03T00:00:00Z,Blizzard/Winter storm in Russian Federation - total_deaths,RUS,nat-met-sto-bli,people,death,8.0,count,primary
+emdat-impact-2001-0018-RUS-total_deaths,emdat-impacts,2001-01-01T00:00:00Z,Cold wave in Russian Federation - total_deaths,RUS,nat-met-ext-col,people,death,145.0,count,primary
+emdat-impact-2001-0018-RUS-total_dam,emdat-impacts,2001-01-01T00:00:00Z,Cold wave in Russian Federation - total_dam,RUS,nat-met-ext-col,total_affected,cost,100.0,count,primary
+emdat-impact-2001-0018-RUS-total_affected,emdat-impacts,2001-01-01T00:00:00Z,Cold wave in Russian Federation - total_affected,RUS,nat-met-ext-col,people,affected_total,6120.0,count,primary
+emdat-impact-2001-0018-RUS-no_injured,emdat-impacts,2001-01-01T00:00:00Z,Cold wave in Russian Federation - no_injured,RUS,nat-met-ext-col,people,injured,120.0,count,primary
+emdat-impact-2001-0018-RUS-no_affected,emdat-impacts,2001-01-01T00:00:00Z,Cold wave in Russian Federation - no_affected,RUS,nat-met-ext-col,people,affected_total,6000.0,count,primary

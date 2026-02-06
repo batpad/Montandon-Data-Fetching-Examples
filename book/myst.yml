@@ -1,0 +1,47 @@
+version: 1
+project:
+  title: Montandon Data Fetching Examples
+  authors:
+    - name: Arun Gandhi
+  github: IFRCGo/Montandon-Data-Fetching-Examples
+  keywords:
+    - disaster data
+    - STAC API
+    - humanitarian
+    - IFRC
+    - data analysis
+    - visualization
+  toc:
+    - file: intro.md
+    - file: getting-started.md
+    - title: Getting Started
+      children:
+        - file: notebooks/01_Getting_Started_Montandon_STAC_API.ipynb
+          title: Introduction to Montandon STAC API
+    - title: Data Analysis
+      children:
+        - file: notebooks/02_Montandon_data_analysis.ipynb
+          title: Montandon Data Analysis
+        - file: notebooks/03_Time_Series_Analysis.ipynb
+          title: Time Series Analysis
+        - file: notebooks/09_EMDAT_Impact_Analysis.ipynb
+          title: EM-DAT Impact Analysis
+    - title: Visualization
+      children:
+        - file: notebooks/04_Recent_Cyclone_Tracking.ipynb
+          title: Recent Cyclone Tracking
+        - file: notebooks/05_Earthquakes_visualization.ipynb
+          title: Earthquake Visualization
+        - file: notebooks/06_Snow_Cold_Wave_Impact_Analysis.ipynb
+          title: Snow & Cold Wave Impact Analysis
+    - title: Advanced Topics
+      children:
+        - file: notebooks/07_cascading_impacts_analysis.ipynb
+          title: Cascading Impacts Analysis
+        - file: notebooks/08_Queryables_Deep_Dive.ipynb
+          title: Queryables Deep Dive
+
+site:
+  template: book-theme
+  options:
+    logo: logo.svg
