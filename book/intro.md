@@ -1,6 +1,6 @@
 # Montandon Data Fetching Examples
 
-Welcome to the **Montandon Data Fetching Examples** - a comprehensive collection of Jupyter notebooks demonstrating how to access, analyze, and visualize disaster data from the Montandon platform.
+Welcome to **Montandon Data Fetching Examples** - a comprehensive collection of Jupyter notebooks demonstrating how to access, analyze, and visualize disaster data from the Montandon platform.
 
 :::{admonition} What is Montandon?
 :class: info
