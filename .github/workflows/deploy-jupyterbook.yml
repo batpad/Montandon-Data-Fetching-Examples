@@ -1,0 +1,93 @@
+# Deploy JupyterBook to GitHub Pages
+# This workflow builds the JupyterBook site and deploys it to GitHub Pages
+# Created with MyST/JupyterBook v2
+
+name: Deploy JupyterBook to GitHub Pages
+
+on:
+  push:
+    branches: [master, jupyterbook]
+  pull_request:
+    branches: [master]
+  workflow_dispatch: # Allow manual trigger
+
+env:
+  # BASE_URL determines the URL path for GitHub Pages
+  # e.g., https://username.github.io/Montandon-Data-Fetching-Examples
+  BASE_URL: /${{ github.event.repository.name }}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./book
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install uv
+        run: |
+          pip install uv
+        working-directory: .
+          
+      - name: Install Python dependencies
+        run: |
+          uv sync
+        working-directory: .
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Install MyST Markdown
+        run: npm install -g mystmd
+        
+      - name: Build HTML site
+        run: |
+          echo "Building JupyterBook with BASE_URL=${BASE_URL}"
+          uv run myst build --html
+        
+      - name: List build output
+        run: |
+          echo "Contents of _build/html:"
+          ls -la _build/html/ | head -20
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./book/_build/html
+
+  deploy:
+    # Only deploy on push to main or jupyterbook branch
+    if: github.event_name == 'push' && (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/jupyterbook')
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
